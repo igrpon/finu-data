@@ -1,0 +1,453 @@
+{
+"driving_licenses": [
+	{
+		"id" : 1,
+		"driver_name" : "Иван Смирнов",
+		"driving_license" : "78 01 123456",
+		"driving_license_issue_date" : "2015-03-12",
+		"driving_license_validuntil" : "2025-03-11",
+		"car_license_plate" : "А123ВС777",
+		"car_mfg_date" : "2020-06-15"
+	},
+	{
+		"id" : 2,
+		"driver_name" : "Елена Кузнецова",
+		"driving_license" : "77 02 234567",
+		"driving_license_issue_date" : "2016-07-23",
+		"driving_license_validuntil" : "2026-07-22",
+		"car_license_plate" : "В456МК99",
+		"car_mfg_date" : "2019-11-20"
+	},
+	{
+		"id" : 3,
+		"driver_name" : "Михаил Попов",
+		"driving_license" : "50 03 345678",
+		"driving_license_issue_date" : "2014-11-05",
+		"driving_license_validuntil" : "2024-11-04",
+		"car_license_plate" : "С789НЕ177",
+		"car_mfg_date" : "2021-03-10"
+	},
+	{
+		"id" : 4,
+		"driver_name" : "Анна Васильева",
+		"driving_license" : "66 04 456789",
+		"driving_license_issue_date" : "2017-01-18",
+		"driving_license_validuntil" : "2027-01-17",
+		"car_license_plate" : "Х012ТТ50",
+		"car_mfg_date" : "2018-09-05"
+	},
+	{
+		"id" : 5,
+		"driver_name" : "Алексей Петров",
+		"driving_license" : "78 05 567890",
+		"driving_license_issue_date" : "2013-09-30",
+		"driving_license_validuntil" : "2023-09-29",
+		"car_license_plate" : "К345РО777",
+		"car_mfg_date" : "2022-01-25"
+	},
+	{
+		"id" : 6,
+		"driver_name" : "Татьяна Иванова",
+		"driving_license" : "77 06 678901",
+		"driving_license_issue_date" : "2028-05-22",
+		"driving_license_validuntil" : "2018-05-21",
+		"car_license_plate" : "М678АЕ99",
+		"car_mfg_date" : "2020-12-12"
+	},
+	{
+		"id" : 7,
+		"driver_name" : "Дмитрий Соколов",
+		"driving_license" : "50 07 789012",
+		"driving_license_issue_date" : "2015-12-14",
+		"driving_license_validuntil" : "2025-12-13",
+		"car_license_plate" : "Т901ВМ177",
+		"car_mfg_date" : "2017-07-30"
+	},
+	{
+		"id" : 8,
+		"driver_name" : "Наталья Михайлова",
+		"driving_license" : "66 08 890123",
+		"driving_license_issue_date" : "2016-04-09",
+		"driving_license_validuntil" : "2026-04-08",
+		"car_license_plate" : "О234ММ50",
+		"car_mfg_date" : "2021-08-19"
+	},
+	{
+		"id" : 9,
+		"driver_name" : "Сергей Федоров",
+		"driving_license" : "78 09 901234",
+		"driving_license_issue_date" : "2014-08-17",
+		"driving_license_validuntil" : "2024-08-16",
+		"car_license_plate" : "Р567НН777",
+		"car_mfg_date" : "2019-04-03"
+	},
+	{
+		"id" : 10,
+		"driver_name" : "Михайлова Наталья",
+		"driving_license" : "66 08 890123",
+		"driving_license_issue_date" : "2017-10-28",
+		"driving_license_validuntil" : "2027-10-27",
+		"car_license_plate" : "Н890СС99",
+		"car_mfg_date" : "2023-02-14"
+	},
+	{
+		"id" : 11,
+		"driver_name" : "Владимир Волков",
+		"driving_license" : "50 11 123456",
+		"driving_license_issue_date" : "2013-06-03",
+		"driving_license_validuntil" : "2023-06-02",
+		"car_license_plate" : "Е123ТТ177",
+		"car_mfg_date" : "2016-10-22"
+	},
+	{
+		"id" : 12,
+		"driver_name" : "Ольга Алексеева",
+		"driving_license" : "66 12 234567",
+		"driving_license_issue_date" : "2018-02-19",
+		"driving_license_validuntil" : "2028-02-18",
+		"car_license_plate" : "Y456АА50",
+		"car_mfg_date" : "2020-05-17"
+	},
+	{
+		"id" : 13,
+		"driver_name" : "Павел Лебедев",
+		"driving_license" : "78 13 345678",
+		"driving_license_issue_date" : "2025-09-11",
+		"driving_license_validuntil" : "2015-09-10",
+		"car_license_plate" : "Я789ВВ777",
+		"car_mfg_date" : "2022-09-08"
+	},
+	{
+		"id" : 14,
+		"driver_name" : "Светлана Егорова",
+		"driving_license" : "77 14 456789",
+		"driving_license_issue_date" : "2016-11-26",
+		"driving_license_validuntil" : "2026-11-25",
+		"car_license_plate" : "А012РР99",
+		"car_mfg_date" : "2018-12-01"
+	},
+	{
+		"id" : 15,
+		"driver_name" : "Андрей Козлов",
+		"driving_license" : "50 15 567890",
+		"driving_license_issue_date" : "2014-04-07",
+		"driving_license_validuntil" : "2024-04-06",
+		"car_license_plate" : "В345СС177",
+		"car_mfg_date" : "2021-11-11"
+	},
+	{
+		"id" : 16,
+		"driver_name" : "Екатерина Новикова",
+		"driving_license" : "66 16 678901",
+		"driving_license_issue_date" : "2017-07-15",
+		"driving_license_validuntil" : "2027-07-14",
+		"car_license_plate" : "С678ТТ50",
+		"car_mfg_date" : "2019-08-27"
+	},
+	{
+		"id" : 17,
+		"driver_name" : "Николай Морозов",
+		"driving_license" : "78 17 789012",
+		"driving_license_issue_date" : "2013-10-21",
+		"driving_license_validuntil" : "2023-10-20",
+		"car_license_plate" : "Х901УУ777",
+		"car_mfg_date" : "2023-01-05"
+	},
+	{
+		"id" : 18,
+		"driver_name" : "Мария Петрова",
+		"driving_license" : "77 18 890123",
+		"driving_license_issue_date" : "2018-12-04",
+		"driving_license_validuntil" : "2028-12-03",
+		"car_license_plate" : "К234ФФ99",
+		"car_mfg_date" : "2017-03-18"
+	},
+	{
+		"id" : 19,
+		"driver_name" : "Виктор Сидоров",
+		"driving_license" : "50 19 901234",
+		"driving_license_issue_date" : "2015-01-29",
+		"driving_license_validuntil" : "2025-01-28",
+		"car_license_plate" : "М567ХХ177",
+		"car_mfg_date" : "2020-10-29"
+	},
+	{
+		"id" : 20,
+		"driver_name" : "Людмила Павлова",
+		"driving_license" : "66 20 012345",
+		"driving_license_issue_date" : "2016-05-13",
+		"driving_license_validuntil" : "2026-05-12",
+		"car_license_plate" : "Т890ЦЦ50",
+		"car_mfg_date" : "2022-07-14"
+	},
+	{
+		"id" : 21,
+		"driver_name" : "Александр Степанов",
+		"driving_license" : "78 21 123456",
+		"driving_license_issue_date" : "2014-09-08",
+		"driving_license_validuntil" : "2024-09-07",
+		"car_license_plate" : "О123ЧЧ777",
+		"car_mfg_date" : "2018-06-06"
+	},
+	{
+		"id" : 22,
+		"driver_name" : "Надежда Никитина",
+		"driving_license" : "77 22 234567",
+		"driving_license_issue_date" : "2017-03-24",
+		"driving_license_validuntil" : "2027-03-23",
+		"car_license_plate" : "Р456ШШ99",
+		"car_mfg_date" : "2021-12-20"
+	},
+	{
+		"id" : 23,
+		"driver_name" : "Георгий Иванов",
+		"driving_license" : "50 23 345678",
+		"driving_license_issue_date" : "2013-07-19",
+		"driving_license_validuntil" : "2023-07-18",
+		"car_license_plate" : "Н789ЩЩ177",
+		"car_mfg_date" : "2019-09-09"
+	},
+	{
+		"id" : 24,
+		"driver_name" : "Вера Орлова",
+		"driving_license" : "66 24 456789",
+		"driving_license_issue_date" : "2018-08-31",
+		"driving_license_validuntil" : "2028-08-30",
+		"car_license_plate" : "Е012KK50",
+		"car_mfg_date" : "2023-04-25"
+	},
+	{
+		"id" : 25,
+		"driver_name" : "Станислав Макаров",
+		"driving_license" : "78 25 567890",
+		"driving_license_issue_date" : "2015-10-06",
+		"driving_license_validuntil" : "2025-10-05",
+		"car_license_plate" : "У345АА777",
+		"car_mfg_date" : "2017-11-16"
+	},
+	{
+		"id" : 26,
+		"driver_name" : "Галина Андреева",
+		"driving_license" : "77 26 678901",
+		"driving_license_issue_date" : "2016-12-17",
+		"driving_license_validuntil" : "2026-12-16",
+		"car_license_plate" : "Я678АА99",
+		"car_mfg_date" : "2020-02-28"
+	},
+	{
+		"id" : 27,
+		"driver_name" : "Борис Ковалев",
+		"driving_license" : "50 27 789012",
+		"driving_license_issue_date" : "2014-02-28",
+		"driving_license_validuntil" : "2024-02-27",
+		"car_license_plate" : "А901ТТ177",
+		"car_mfg_date" : "2022-10-07"
+	},
+	{
+		"id" : 28,
+		"driver_name" : "Михайлова Наталья",
+		"driving_license" : "66 28 890123",
+		"driving_license_issue_date" : "2017-06-10",
+		"driving_license_validuntil" : "2027-06-09",
+		"car_license_plate" : "В234ТТ50",
+		"car_mfg_date" : "2018-08-14"
+	},
+	{
+		"id" : 29,
+		"driver_name" : "Максим Григорьев",
+		"driving_license" : "78 29 901234",
+		"driving_license_issue_date" : "2013-11-01",
+		"driving_license_validuntil" : "2023-10-31",
+		"car_license_plate" : "С567ВВ777",
+		"car_mfg_date" : "2021-05-19"
+	},
+	{
+		"id" : 30,
+		"driver_name" : "Валентина Семенова",
+		"driving_license" : "77 26 678901",
+		"driving_license_issue_date" : "2018-04-23",
+		"driving_license_validuntil" : "2028-04-22",
+		"car_license_plate" : "Х890АВ99",
+		"car_mfg_date" : "2019-12-03"
+	},
+	{
+		"id" : 31,
+		"driver_name" : "Даниил Баранов",
+		"driving_license" : "50 31 123456",
+		"driving_license_issue_date" : "2015-08-14",
+		"driving_license_validuntil" : "2025-08-13",
+		"car_license_plate" : "К123ВВ177",
+		"car_mfg_date" : "2023-07-08"
+	},
+	{
+		"id" : 32,
+		"driver_name" : "Евгения Гусева",
+		"driving_license" : "66 32 234567",
+		"driving_license_issue_date" : "2016-09-27",
+		"driving_license_validuntil" : "2026-09-26",
+		"car_license_plate" : "М456ЕЕ50",
+		"car_mfg_date" : "2017-04-21"
+	},
+	{
+		"id" : 33,
+		"driver_name" : "Кирилл Фролов",
+		"driving_license" : "78 33 345678",
+		"driving_license_issue_date" : "2014-03-09",
+		"driving_license_validuntil" : "2024-03-08",
+		"car_license_plate" : "Т789ЕЕ777",
+		"car_mfg_date" : "2020-09-13"
+	},
+	{
+		"id" : 34,
+		"driver_name" : "Алина Беляева",
+		"driving_license" : "77 34 456789",
+		"driving_license_issue_date" : "2017-05-21",
+		"driving_license_validuntil" : "2027-05-20",
+		"car_license_plate" : "О012ОО99",
+		"car_mfg_date" : "2022-03-26"
+	},
+	{
+		"id" : 35,
+		"driver_name" : "Даниил Баранов",
+		"driving_license" : "77 26 678901",
+		"driving_license_issue_date" : "2013-12-12",
+		"driving_license_validuntil" : "2023-12-11",
+		"car_license_plate" : "Р345ОО177",
+		"car_mfg_date" : "2018-10-18"
+	},
+	{
+		"id" : 36,
+		"driver_name" : "Лариса Чернова",
+		"driving_license" : "66 36 678901",
+		"driving_license_issue_date" : "2018-07-03",
+		"driving_license_validuntil" : "2028-07-02",
+		"car_license_plate" : "Н678КК50",
+		"car_mfg_date" : "2021-06-30"
+	},
+	{
+		"id" : 37,
+		"driver_name" : "Артем Ершов",
+		"driving_license" : "78 37 789012",
+		"driving_license_issue_date" : "2015-11-25",
+		"driving_license_validuntil" : "2025-11-24",
+		"car_license_plate" : "Е901МН777",
+		"car_mfg_date" : "2019-02-11"
+	},
+	{
+		"id" : 38,
+		"driver_name" : "Зоя Зайцева",
+		"driving_license" : "77 38 890123",
+		"driving_license_issue_date" : "2016-02-16",
+		"driving_license_validuntil" : "2026-02-15",
+		"car_license_plate" : "У234ОП99",
+		"car_mfg_date" : "2023-09-17"
+	},
+	{
+		"id" : 39,
+		"driver_name" : "Никита Соловьев",
+		"driving_license" : "50 39 901234",
+		"driving_license_issue_date" : "2014-06-19",
+		"driving_license_validuntil" : "2024-06-18",
+		"car_license_plate" : "У567ПР177",
+		"car_mfg_date" : "2017-12-22"
+	},
+	{
+		"id" : 40,
+		"driver_name" : "Елизавета Королева",
+		"driving_license" : "77 34 456789",
+		"driving_license_issue_date" : "2017-09-02",
+		"driving_license_validuntil" : "2027-09-01",
+		"car_license_plate" : "А890РС50",
+		"car_mfg_date" : "2020-07-04"
+	},
+	{
+		"id" : 41,
+		"driver_name" : "Леонид Устинов",
+		"driving_license" : "78 41 123456",
+		"driving_license_issue_date" : "2013-04-05",
+		"driving_license_validuntil" : "2023-04-04",
+		"car_license_plate" : "В123ТУ777",
+		"car_mfg_date" : "2022-11-28"
+	},
+	{
+		"id" : 42,
+		"driver_name" : "Маргарита Тимофеева",
+		"driving_license" : "77 42 234567",
+		"driving_license_issue_date" : "2018-10-24",
+		"driving_license_validuntil" : "2028-10-23",
+		"car_license_plate" : "С456ХХ99",
+		"car_mfg_date" : "2018-05-09"
+	},
+	{
+		"id" : 43,
+		"driver_name" : "Роман Кудрявцев",
+		"driving_license" : "50 43 345678",
+		"driving_license_issue_date" : "2015-12-07",
+		"driving_license_validuntil" : "2025-12-06",
+		"car_license_plate" : "Х789ХХ177",
+		"car_mfg_date" : "2031-01-15"
+	},
+	{
+		"id" : 44,
+		"driver_name" : "Виталий Белов",
+		"driving_license" : "66 44 456789",
+		"driving_license_issue_date" : "2016-03-18",
+		"driving_license_validuntil" : "2026-03-17",
+		"car_license_plate" : "К012ВВ50",
+		"car_mfg_date" : "2039-10-26"
+	},
+	{
+		"id" : 45,
+		"driver_name" : "Алла Куликова",
+		"driving_license" : "78 45 567890",
+		"driving_license_issue_date" : "2014-07-30",
+		"driving_license_validuntil" : "2024-07-29",
+		"car_license_plate" : "М345ВВ777",
+		"car_mfg_date" : "2023-05-03"
+	},
+	{
+		"id" : 46,
+		"driver_name" : "Эдуард Денисов",
+		"driving_license" : "77 34 456789",
+		"driving_license_issue_date" : "2017-01-11",
+		"driving_license_validuntil" : "2027-01-10",
+		"car_license_plate" : "Т678ВВ99",
+		"car_mfg_date" : "2017-08-07"
+	},
+	{
+		"id" : 47,
+		"driver_name" : "Инна Гаврилова",
+		"driving_license" : "50 47 789012",
+		"driving_license_issue_date" : "2013-05-23",
+		"driving_license_validuntil" : "2023-05-22",
+		"car_license_plate" : "О901ВВ177",
+		"car_mfg_date" : "2030-03-21"
+	},
+	{
+		"id" : 48,
+		"driver_name" : "Алла Куликова",
+		"driving_license" : "66 48 890123",
+		"driving_license_issue_date" : "2018-09-14",
+		"driving_license_validuntil" : "2028-09-13",
+		"car_license_plate" : "Р234АВ50",
+		"car_mfg_date" : "2022-12-09"
+	},
+	{
+		"id" : 49,
+		"driver_name" : "Римма Фомина",
+		"driving_license" : "78 49 901234",
+		"driving_license_issue_date" : "2015-02-05",
+		"driving_license_validuntil" : "2025-02-04",
+		"car_license_plate" : "Н567СС777",
+		"car_mfg_date" : "2018-11-30"
+	},
+	{
+		"id" : 50,
+		"driver_name" : "Вадим Тихонов",
+		"driving_license" : "77 50 012345",
+		"driving_license_issue_date" : "2016-06-26",
+		"driving_license_validuntil" : "2026-06-25",
+		"car_license_plate" : "Е890СС99",
+		"car_mfg_date" : "2021-09-23"
+	}
+]}

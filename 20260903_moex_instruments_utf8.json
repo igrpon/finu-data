@@ -1,0 +1,3033 @@
+{
+"instruments": [
+	{
+		"id" : "ABIO",
+		"regnumber" : "1-01-08902-A",
+		"lotsize" : 10,
+		"shortname" : "iАРТГЕН ао"
+	},
+	{
+		"id" : "ABRD",
+		"regnumber" : "1-02-12500-A",
+		"lotsize" : 10,
+		"shortname" : "АбрауДюрсо"
+	},
+	{
+		"id" : "AFKS",
+		"regnumber" : "1-05-01669-A",
+		"lotsize" : 100,
+		"shortname" : "Система ао"
+	},
+	{
+		"id" : "AFLT",
+		"regnumber" : "1-01-00010-A",
+		"lotsize" : 10,
+		"shortname" : "Аэрофлот"
+	},
+	{
+		"id" : "AKAI",
+		"regnumber" : "6527",
+		"lotsize" : 1,
+		"shortname" : "AKAI ETF"
+	},
+	{
+		"id" : "AKBC",
+		"regnumber" : "6911",
+		"lotsize" : 1,
+		"shortname" : "AKBC ETF"
+	},
+	{
+		"id" : "AKCN",
+		"regnumber" : "7246",
+		"lotsize" : 1,
+		"shortname" : "AKCN ETF"
+	},
+	{
+		"id" : "AKFB",
+		"regnumber" : "6541",
+		"lotsize" : 1,
+		"shortname" : "AKFB ETF"
+	},
+	{
+		"id" : "AKFN",
+		"regnumber" : "7245",
+		"lotsize" : 1,
+		"shortname" : "AKFN ETF"
+	},
+	{
+		"id" : "AKGD",
+		"regnumber" : "4713",
+		"lotsize" : 1,
+		"shortname" : "AKGD ETF"
+	},
+	{
+		"id" : "AKGP",
+		"regnumber" : "6996",
+		"lotsize" : 1,
+		"shortname" : "AKGP ETF"
+	},
+	{
+		"id" : "AKHT",
+		"regnumber" : "6580",
+		"lotsize" : 1,
+		"shortname" : "AKHT ETF"
+	},
+	{
+		"id" : "AKIE",
+		"regnumber" : "6467",
+		"lotsize" : 1,
+		"shortname" : "ETF AKIE"
+	},
+	{
+		"id" : "AKMB",
+		"regnumber" : "4039",
+		"lotsize" : 1,
+		"shortname" : "ETF AKMB"
+	},
+	{
+		"id" : "AKMC",
+		"regnumber" : "7781",
+		"lotsize" : 1,
+		"shortname" : "AKMC ETF"
+	},
+	{
+		"id" : "AKME",
+		"regnumber" : "4213",
+		"lotsize" : 1,
+		"shortname" : "ETF AKME"
+	},
+	{
+		"id" : "AKMM",
+		"regnumber" : "5012",
+		"lotsize" : 1,
+		"shortname" : "AKMM ETF"
+	},
+	{
+		"id" : "AKMP",
+		"regnumber" : "6848",
+		"lotsize" : 1,
+		"shortname" : "AKMP ETF"
+	},
+	{
+		"id" : "AKPP",
+		"regnumber" : "6838",
+		"lotsize" : 1,
+		"shortname" : "AKPP ETF"
+	},
+	{
+		"id" : "AKQU",
+		"regnumber" : "4580",
+		"lotsize" : 1,
+		"shortname" : "AKQU ETF"
+	},
+	{
+		"id" : "AKRN",
+		"regnumber" : "1-03-00207-A",
+		"lotsize" : 1,
+		"shortname" : "Акрон"
+	},
+	{
+		"id" : "AKUP",
+		"regnumber" : "5955",
+		"lotsize" : 1,
+		"shortname" : "AKUP ETF"
+	},
+	{
+		"id" : "ALRS",
+		"regnumber" : "1-03-40046-N",
+		"lotsize" : 10,
+		"shortname" : "АЛРОСА ао"
+	},
+	{
+		"id" : "AMEZ",
+		"regnumber" : "1-03-45219-D",
+		"lotsize" : 100,
+		"shortname" : "АшинскийМЗ"
+	},
+	{
+		"id" : "AMFL",
+		"regnumber" : "6763",
+		"lotsize" : 1,
+		"shortname" : "AMFL ETF"
+	},
+	{
+		"id" : "AMGB",
+		"regnumber" : "6764",
+		"lotsize" : 1,
+		"shortname" : "AMGB ETF"
+	},
+	{
+		"id" : "AMGL",
+		"regnumber" : "7136",
+		"lotsize" : 1,
+		"shortname" : "AMGL ETF"
+	},
+	{
+		"id" : "AMIX",
+		"regnumber" : "7839",
+		"lotsize" : 1,
+		"shortname" : "AMIX ETF"
+	},
+	{
+		"id" : "AMNR",
+		"regnumber" : "5936",
+		"lotsize" : 1,
+		"shortname" : "AMNR ETF"
+	},
+	{
+		"id" : "AMNY",
+		"regnumber" : "6221",
+		"lotsize" : 1,
+		"shortname" : "AMNY ETF"
+	},
+	{
+		"id" : "AMRE",
+		"regnumber" : "4330",
+		"lotsize" : 1,
+		"shortname" : "AMRE ETF"
+	},
+	{
+		"id" : "AMRH",
+		"regnumber" : "4506",
+		"lotsize" : 1,
+		"shortname" : "AMRH ETF"
+	},
+	{
+		"id" : "AMVD",
+		"regnumber" : "7838",
+		"lotsize" : 1,
+		"shortname" : "AMVD ETF"
+	},
+	{
+		"id" : "AMVY",
+		"regnumber" : "7840",
+		"lotsize" : 1,
+		"shortname" : "AMVY ETF"
+	},
+	{
+		"id" : "APRI",
+		"regnumber" : "1-01-12464-K",
+		"lotsize" : 10,
+		"shortname" : "АПРИ"
+	},
+	{
+		"id" : "APTK",
+		"regnumber" : "1-01-07335-A",
+		"lotsize" : 10,
+		"shortname" : "Аптеки36и6"
+	},
+	{
+		"id" : "AQUA",
+		"regnumber" : "1-01-04461-D",
+		"lotsize" : 1,
+		"shortname" : "ИНАРКТИКА"
+	},
+	{
+		"id" : "ARSA",
+		"regnumber" : "1-01-03163-D",
+		"lotsize" : 100,
+		"shortname" : "Арсагера"
+	},
+	{
+		"id" : "ASSB",
+		"regnumber" : "1-01-55064-E",
+		"lotsize" : 1000,
+		"shortname" : "АстрЭнСб"
+	},
+	{
+		"id" : "ASTR",
+		"regnumber" : "1-01-01286-G",
+		"lotsize" : 1,
+		"shortname" : "iАстра ао"
+	},
+	{
+		"id" : "AVAN",
+		"regnumber" : "10102879B",
+		"lotsize" : 1,
+		"shortname" : "Авангрд-ао"
+	},
+	{
+		"id" : "BANE",
+		"regnumber" : "1-01-00013-A",
+		"lotsize" : 1,
+		"shortname" : "Башнефт ао"
+	},
+	{
+		"id" : "BANEP",
+		"regnumber" : "2-01-00013-A",
+		"lotsize" : 1,
+		"shortname" : "Башнефт ап"
+	},
+	{
+		"id" : "BAZA",
+		"regnumber" : "1-01-36413-N",
+		"lotsize" : 10,
+		"shortname" : "iБАЗИС"
+	},
+	{
+		"id" : "BCSB",
+		"regnumber" : "4301",
+		"lotsize" : 1,
+		"shortname" : "BCSB ETF"
+	},
+	{
+		"id" : "BCSD",
+		"regnumber" : "6330",
+		"lotsize" : 1,
+		"shortname" : "BCSD ETF"
+	},
+	{
+		"id" : "BCSE",
+		"regnumber" : "7231",
+		"lotsize" : 1,
+		"shortname" : "BCSE ETF"
+	},
+	{
+		"id" : "BCSG",
+		"regnumber" : "7003",
+		"lotsize" : 1,
+		"shortname" : "BCSG ETF"
+	},
+	{
+		"id" : "BCSR",
+		"regnumber" : "6615",
+		"lotsize" : 1,
+		"shortname" : "BCSR ETF"
+	},
+	{
+		"id" : "BCSW",
+		"regnumber" : "6918",
+		"lotsize" : 1,
+		"shortname" : "BCSW ETF"
+	},
+	{
+		"id" : "BELU",
+		"regnumber" : "1-01-55052-E",
+		"lotsize" : 1,
+		"shortname" : "НоваБев ао"
+	},
+	{
+		"id" : "BISVP",
+		"regnumber" : "2-01-00011-A",
+		"lotsize" : 100,
+		"shortname" : "БашИнСв ап"
+	},
+	{
+		"id" : "BLNG",
+		"regnumber" : "1-06-10167-F",
+		"lotsize" : 100,
+		"shortname" : "Белон ао"
+	},
+	{
+		"id" : "BNDA",
+		"regnumber" : "6971",
+		"lotsize" : 1,
+		"shortname" : "BNDA ETF"
+	},
+	{
+		"id" : "BNDB",
+		"regnumber" : "6955",
+		"lotsize" : 1,
+		"shortname" : "BNDB ETF"
+	},
+	{
+		"id" : "BNDC",
+		"regnumber" : "6970",
+		"lotsize" : 1,
+		"shortname" : "BNDC ETF"
+	},
+	{
+		"id" : "BOND",
+		"regnumber" : "4920",
+		"lotsize" : 1,
+		"shortname" : "BOND ETF"
+	},
+	{
+		"id" : "BRZL",
+		"regnumber" : "1-06-20577-F",
+		"lotsize" : 1,
+		"shortname" : "БурЗолото"
+	},
+	{
+		"id" : "BSPB",
+		"regnumber" : "10300436B",
+		"lotsize" : 10,
+		"shortname" : "БСП ао"
+	},
+	{
+		"id" : "BSPBP",
+		"regnumber" : "20100436B",
+		"lotsize" : 100,
+		"shortname" : "БСП ап"
+	},
+	{
+		"id" : "BTBR",
+		"regnumber" : "1-01-00001-G",
+		"lotsize" : 1,
+		"shortname" : "iВ2В-РТС"
+	},
+	{
+		"id" : "CARM",
+		"regnumber" : "1-01-03536-G",
+		"lotsize" : 100,
+		"shortname" : "СТГ"
+	},
+	{
+		"id" : "CASH",
+		"regnumber" : "6589",
+		"lotsize" : 10,
+		"shortname" : "CASH ETF"
+	},
+	{
+		"id" : "CBOM",
+		"regnumber" : "10101978B",
+		"lotsize" : 100,
+		"shortname" : "МКБ ао"
+	},
+	{
+		"id" : "CHGZ",
+		"regnumber" : "1-01-00185-A",
+		"lotsize" : 10,
+		"shortname" : "РН-ЗапСиб"
+	},
+	{
+		"id" : "CHKZ",
+		"regnumber" : "1-03-45058-D",
+		"lotsize" : 1,
+		"shortname" : "ЧКПЗ ао"
+	},
+	{
+		"id" : "CHMF",
+		"regnumber" : "1-02-00143-A",
+		"lotsize" : 1,
+		"shortname" : "СевСт-ао"
+	},
+	{
+		"id" : "CHMK",
+		"regnumber" : "1-01-00080-A",
+		"lotsize" : 1,
+		"shortname" : "ЧМК ао"
+	},
+	{
+		"id" : "CNRU",
+		"regnumber" : "1-01-16918-A",
+		"lotsize" : 1,
+		"shortname" : "iЦиан"
+	},
+	{
+		"id" : "CNTL",
+		"regnumber" : "1-03-00327-A",
+		"lotsize" : 100,
+		"shortname" : "Телеграф"
+	},
+	{
+		"id" : "CNTLP",
+		"regnumber" : "2-03-00327-A",
+		"lotsize" : 100,
+		"shortname" : "Телеграф-п"
+	},
+	{
+		"id" : "CNYM",
+		"regnumber" : "5866",
+		"lotsize" : 1,
+		"shortname" : "CNYM ETF"
+	},
+	{
+		"id" : "CORP",
+		"regnumber" : "7799",
+		"lotsize" : 1,
+		"shortname" : "CORP ETF"
+	},
+	{
+		"id" : "DATA",
+		"regnumber" : "1-01-87685-H",
+		"lotsize" : 1,
+		"shortname" : "iАренадата"
+	},
+	{
+		"id" : "DELI",
+		"regnumber" : "1-01-16750-A",
+		"lotsize" : 1,
+		"shortname" : "iКаршеринг"
+	},
+	{
+		"id" : "DIAS",
+		"regnumber" : "1-01-84777-H",
+		"lotsize" : 1,
+		"shortname" : "iДиасофт"
+	},
+	{
+		"id" : "DIOD",
+		"regnumber" : "1-03-06923-A",
+		"lotsize" : 100,
+		"shortname" : "ЗаводДИОД"
+	},
+	{
+		"id" : "DIVD",
+		"regnumber" : "4242",
+		"lotsize" : 1,
+		"shortname" : "ETF DIVD"
+	},
+	{
+		"id" : "DOMRF",
+		"regnumber" : "1-02-00739-A",
+		"lotsize" : 1,
+		"shortname" : "ДОМ.РФ"
+	},
+	{
+		"id" : "DVEC",
+		"regnumber" : "1-01-55275-E",
+		"lotsize" : 1000,
+		"shortname" : "ДЭК ао"
+	},
+	{
+		"id" : "DZRD",
+		"regnumber" : "1-01-02677-A",
+		"lotsize" : 1,
+		"shortname" : "ДонскЗР"
+	},
+	{
+		"id" : "DZRDP",
+		"regnumber" : "2-01-02677-A",
+		"lotsize" : 1,
+		"shortname" : "ДонскЗР п"
+	},
+	{
+		"id" : "EELT",
+		"regnumber" : "1-01-83993-H",
+		"lotsize" : 10,
+		"shortname" : "ЕвроЭлтех"
+	},
+	{
+		"id" : "ELFV",
+		"regnumber" : "1-01-50077-A",
+		"lotsize" : 1000,
+		"shortname" : "ЭЛ5Энер ао"
+	},
+	{
+		"id" : "ELMT",
+		"regnumber" : "1-01-16673-A",
+		"lotsize" : 1000,
+		"shortname" : "iЭлемент"
+	},
+	{
+		"id" : "ENPG",
+		"regnumber" : "1-01-16625-A",
+		"lotsize" : 1,
+		"shortname" : "ЭН+ГРУП ао"
+	},
+	{
+		"id" : "EQMX",
+		"regnumber" : "3965",
+		"lotsize" : 1,
+		"shortname" : "EQMX ETF"
+	},
+	{
+		"id" : "ESGE",
+		"regnumber" : "4568",
+		"lotsize" : 1,
+		"shortname" : "ESGE ETF"
+	},
+	{
+		"id" : "ESGR",
+		"regnumber" : "4057",
+		"lotsize" : 1,
+		"shortname" : "ESGR ETF"
+	},
+	{
+		"id" : "ETLN",
+		"regnumber" : "1-01-17142-A",
+		"lotsize" : 1,
+		"shortname" : "ЭталонГруп"
+	},
+	{
+		"id" : "EUTR",
+		"regnumber" : "1-01-80110-H",
+		"lotsize" : 1,
+		"shortname" : "ЕвроТранс"
+	},
+	{
+		"id" : "EVRZ",
+		"regnumber" : "1-01-00099-A",
+		"lotsize" : 10,
+		"shortname" : "ЕВРАЗ"
+	},
+	{
+		"id" : "FEES",
+		"regnumber" : "1-01-65018-D",
+		"lotsize" : 10000,
+		"shortname" : "Россети"
+	},
+	{
+		"id" : "FESH",
+		"regnumber" : "1-03-00032-A",
+		"lotsize" : 10,
+		"shortname" : "ДВМП ао"
+	},
+	{
+		"id" : "FINC",
+		"regnumber" : "6396",
+		"lotsize" : 1,
+		"shortname" : "FINC ETF"
+	},
+	{
+		"id" : "FIXR",
+		"regnumber" : "1-01-08699-G",
+		"lotsize" : 1000,
+		"shortname" : "Фикс Прайс"
+	},
+	{
+		"id" : "FLOT",
+		"regnumber" : "1-01-10613-A",
+		"lotsize" : 10,
+		"shortname" : "Совкомфлот"
+	},
+	{
+		"id" : "FLOW",
+		"regnumber" : "7137",
+		"lotsize" : 1,
+		"shortname" : "FLOW ETF"
+	},
+	{
+		"id" : "FMBR",
+		"regnumber" : "7306",
+		"lotsize" : 1,
+		"shortname" : "FMBR ETF"
+	},
+	{
+		"id" : "FMMM",
+		"regnumber" : "6459",
+		"lotsize" : 1,
+		"shortname" : "FMMM ETF"
+	},
+	{
+		"id" : "FMSA",
+		"regnumber" : "7802",
+		"lotsize" : 1,
+		"shortname" : "FMSA ETF"
+	},
+	{
+		"id" : "GAZA",
+		"regnumber" : "1-01-00029-A",
+		"lotsize" : 10,
+		"shortname" : "ГАЗ ао"
+	},
+	{
+		"id" : "GAZAP",
+		"regnumber" : "2-02-00029-A",
+		"lotsize" : 10,
+		"shortname" : "ГАЗ ап"
+	},
+	{
+		"id" : "GAZC",
+		"regnumber" : "1-01-09870-A",
+		"lotsize" : 10,
+		"shortname" : "ГАЗКОН-ао"
+	},
+	{
+		"id" : "GAZP",
+		"regnumber" : "1-02-00028-A",
+		"lotsize" : 10,
+		"shortname" : "ГАЗПРОМ ао"
+	},
+	{
+		"id" : "GAZS",
+		"regnumber" : "1-01-09871-A",
+		"lotsize" : 10,
+		"shortname" : "ГАЗ-сервис"
+	},
+	{
+		"id" : "GAZT",
+		"regnumber" : "1-01-12996-A",
+		"lotsize" : 10,
+		"shortname" : "ГАЗ-Тек ао"
+	},
+	{
+		"id" : "GCHE",
+		"regnumber" : "1-02-10797-A",
+		"lotsize" : 1,
+		"shortname" : "ЧеркизГ-ао"
+	},
+	{
+		"id" : "GECO",
+		"regnumber" : "1-01-87198-H",
+		"lotsize" : 10,
+		"shortname" : "iГЕНЕТИКО"
+	},
+	{
+		"id" : "GEMA",
+		"regnumber" : "1-01-85932-H",
+		"lotsize" : 10,
+		"shortname" : "iММЦБ ао"
+	},
+	{
+		"id" : "GEMC",
+		"regnumber" : "1-01-16774-A",
+		"lotsize" : 1,
+		"shortname" : "МКПАО ЮМГ"
+	},
+	{
+		"id" : "GLRX",
+		"regnumber" : "1-01-16806-A",
+		"lotsize" : 1,
+		"shortname" : "ГЛОРАКС"
+	},
+	{
+		"id" : "GMKN",
+		"regnumber" : "1-01-40155-F",
+		"lotsize" : 10,
+		"shortname" : "ГМКНорНик"
+	},
+	{
+		"id" : "GOLD",
+		"regnumber" : "4038",
+		"lotsize" : 1,
+		"shortname" : "GOLD ETF"
+	},
+	{
+		"id" : "GOOD",
+		"regnumber" : "6720",
+		"lotsize" : 1,
+		"shortname" : "GOOD ETF"
+	},
+	{
+		"id" : "GROD",
+		"regnumber" : "4444",
+		"lotsize" : 1,
+		"shortname" : "ETF GROD"
+	},
+	{
+		"id" : "GTRK",
+		"regnumber" : "1-01-84907-H",
+		"lotsize" : 10,
+		"shortname" : "ГТМ ао"
+	},
+	{
+		"id" : "HEAD",
+		"regnumber" : "1-01-16755-A",
+		"lotsize" : 1,
+		"shortname" : "Хэдхантер"
+	},
+	{
+		"id" : "HIMCP",
+		"regnumber" : "2-01-55076-D",
+		"lotsize" : 100,
+		"shortname" : "Химпром ап"
+	},
+	{
+		"id" : "HNFG",
+		"regnumber" : "1-01-03109-G",
+		"lotsize" : 1,
+		"shortname" : "ХЭНДЕРСОН"
+	},
+	{
+		"id" : "HYDR",
+		"regnumber" : "1-01-55038-E",
+		"lotsize" : 1000,
+		"shortname" : "РусГидро"
+	},
+	{
+		"id" : "IGST",
+		"regnumber" : "1-02-30078-D",
+		"lotsize" : 1,
+		"shortname" : "Ижсталь2ао"
+	},
+	{
+		"id" : "IGSTP",
+		"regnumber" : "2-02-30078-D",
+		"lotsize" : 1,
+		"shortname" : "Ижсталь ап"
+	},
+	{
+		"id" : "INCB",
+		"regnumber" : "1-01-07856-G",
+		"lotsize" : 1,
+		"shortname" : "Инкаб"
+	},
+	{
+		"id" : "INFL",
+		"regnumber" : "4742",
+		"lotsize" : 1,
+		"shortname" : "INFL ETF"
+	},
+	{
+		"id" : "INGO",
+		"regnumber" : "4483",
+		"lotsize" : 1,
+		"shortname" : "INGO ETF"
+	},
+	{
+		"id" : "IRAO",
+		"regnumber" : "1-04-33498-E",
+		"lotsize" : 100,
+		"shortname" : "ИнтерРАОао"
+	},
+	{
+		"id" : "IRKT",
+		"regnumber" : "1-03-00040-A",
+		"lotsize" : 100,
+		"shortname" : "Яковлев-3"
+	},
+	{
+		"id" : "IVAT",
+		"regnumber" : "1-01-10876-P",
+		"lotsize" : 1,
+		"shortname" : "iИВА"
+	},
+	{
+		"id" : "JNOS",
+		"regnumber" : "1-01-00199-A",
+		"lotsize" : 100,
+		"shortname" : "Славн-ЯНОС"
+	},
+	{
+		"id" : "JNOSP",
+		"regnumber" : "2-01-00199-A",
+		"lotsize" : 100,
+		"shortname" : "Слав-ЯНОСп"
+	},
+	{
+		"id" : "KAZT",
+		"regnumber" : "1-01-00067-A",
+		"lotsize" : 10,
+		"shortname" : "Куйбазот"
+	},
+	{
+		"id" : "KAZTP",
+		"regnumber" : "2-01-00067-A",
+		"lotsize" : 10,
+		"shortname" : "Куйбазот-п"
+	},
+	{
+		"id" : "KBSB",
+		"regnumber" : "1-01-55218-E",
+		"lotsize" : 10,
+		"shortname" : "ТНСэКубань"
+	},
+	{
+		"id" : "KCHE",
+		"regnumber" : "1-02-00235-A",
+		"lotsize" : 10000,
+		"shortname" : "КамчатЭ ао"
+	},
+	{
+		"id" : "KCHEP",
+		"regnumber" : "2-02-00235-A",
+		"lotsize" : 10000,
+		"shortname" : "КамчатЭ ап"
+	},
+	{
+		"id" : "KFBA",
+		"regnumber" : "1-01-50020-A",
+		"lotsize" : 1,
+		"shortname" : "ИНГРАД ао"
+	},
+	{
+		"id" : "KGKC",
+		"regnumber" : "1-01-55226-E",
+		"lotsize" : 10,
+		"shortname" : "КурганГКао"
+	},
+	{
+		"id" : "KGKCP",
+		"regnumber" : "2-01-55226-E",
+		"lotsize" : 10,
+		"shortname" : "КурганГКап"
+	},
+	{
+		"id" : "KLSB",
+		"regnumber" : "1-01-65057-D",
+		"lotsize" : 100,
+		"shortname" : "КалужскСК"
+	},
+	{
+		"id" : "KLVZ",
+		"regnumber" : "1-01-05421-G",
+		"lotsize" : 100,
+		"shortname" : "Кристалл"
+	},
+	{
+		"id" : "KMAZ",
+		"regnumber" : "1-08-55010-D",
+		"lotsize" : 10,
+		"shortname" : "КАМАЗ"
+	},
+	{
+		"id" : "KMEZ",
+		"regnumber" : "1-02-05376-A",
+		"lotsize" : 1,
+		"shortname" : "КМЗ"
+	},
+	{
+		"id" : "KOGK",
+		"regnumber" : "1-01-20992-F",
+		"lotsize" : 1,
+		"shortname" : "КоршГОК ао"
+	},
+	{
+		"id" : "KRKN",
+		"regnumber" : "1-01-00248-A",
+		"lotsize" : 1,
+		"shortname" : "СаратНПЗ"
+	},
+	{
+		"id" : "KRKNP",
+		"regnumber" : "2-01-00248-A",
+		"lotsize" : 1,
+		"shortname" : "СаратНПЗ-п"
+	},
+	{
+		"id" : "KRKOP",
+		"regnumber" : "2-01-30301-E",
+		"lotsize" : 100,
+		"shortname" : "ТКЗКК ап"
+	},
+	{
+		"id" : "KROT",
+		"regnumber" : "1-02-00060-A",
+		"lotsize" : 10,
+		"shortname" : "КрасОкт-ао"
+	},
+	{
+		"id" : "KROTP",
+		"regnumber" : "2-01-00060-A",
+		"lotsize" : 10,
+		"shortname" : "КрасОкт-1п"
+	},
+	{
+		"id" : "KRSB",
+		"regnumber" : "1-01-55147-E",
+		"lotsize" : 100,
+		"shortname" : "Красэсб ао"
+	},
+	{
+		"id" : "KRSBP",
+		"regnumber" : "2-01-55147-E",
+		"lotsize" : 100,
+		"shortname" : "Красэсб ап"
+	},
+	{
+		"id" : "KUZB",
+		"regnumber" : "10100609B",
+		"lotsize" : 10000,
+		"shortname" : "КузнецкийБ"
+	},
+	{
+		"id" : "KZOS",
+		"regnumber" : "1-02-55245-D",
+		"lotsize" : 10,
+		"shortname" : "ОргСинт ао"
+	},
+	{
+		"id" : "KZOSP",
+		"regnumber" : "2-02-55245-D",
+		"lotsize" : 10,
+		"shortname" : "ОргСинт ап"
+	},
+	{
+		"id" : "LEAS",
+		"regnumber" : "1-01-16419-A",
+		"lotsize" : 1,
+		"shortname" : "Европлан"
+	},
+	{
+		"id" : "LENT",
+		"regnumber" : "1-01-16686-A",
+		"lotsize" : 1,
+		"shortname" : "Лента ао"
+	},
+	{
+		"id" : "LIFE",
+		"regnumber" : "1-02-09669-J",
+		"lotsize" : 100,
+		"shortname" : "Фармсинтез"
+	},
+	{
+		"id" : "LKOH",
+		"regnumber" : "1-01-00077-A",
+		"lotsize" : 1,
+		"shortname" : "ЛУКОЙЛ"
+	},
+	{
+		"id" : "LMBZ",
+		"regnumber" : "1-01-09188-H",
+		"lotsize" : 1,
+		"shortname" : "Ламбумиз"
+	},
+	{
+		"id" : "LNZL",
+		"regnumber" : "1-02-40433-N",
+		"lotsize" : 1,
+		"shortname" : "Лензолото"
+	},
+	{
+		"id" : "LNZLP",
+		"regnumber" : "2-02-40433-N",
+		"lotsize" : 1,
+		"shortname" : "Лензол. ап"
+	},
+	{
+		"id" : "LPSB",
+		"regnumber" : "1-01-65097-D",
+		"lotsize" : 100,
+		"shortname" : "ЛЭСК ао"
+	},
+	{
+		"id" : "LQDT",
+		"regnumber" : "3915",
+		"lotsize" : 1,
+		"shortname" : "LQDT ETF"
+	},
+	{
+		"id" : "LSNG",
+		"regnumber" : "1-01-00073-A",
+		"lotsize" : 100,
+		"shortname" : "РСетиЛЭ"
+	},
+	{
+		"id" : "LSNGP",
+		"regnumber" : "2-01-00073-A",
+		"lotsize" : 10,
+		"shortname" : "РСетиЛЭ-п"
+	},
+	{
+		"id" : "LSRG",
+		"regnumber" : "1-01-55234-E",
+		"lotsize" : 1,
+		"shortname" : "ЛСР ао"
+	},
+	{
+		"id" : "LVHK",
+		"regnumber" : "1-01-04329-D",
+		"lotsize" : 100,
+		"shortname" : "Левенгук"
+	},
+	{
+		"id" : "MAGE",
+		"regnumber" : "1-01-00254-A",
+		"lotsize" : 100,
+		"shortname" : "МагадЭн ао"
+	},
+	{
+		"id" : "MAGEP",
+		"regnumber" : "2-01-00254-A",
+		"lotsize" : 100,
+		"shortname" : "МагадЭн ап"
+	},
+	{
+		"id" : "MAGN",
+		"regnumber" : "1-03-00078-A",
+		"lotsize" : 10,
+		"shortname" : "ММК"
+	},
+	{
+		"id" : "MBNK",
+		"regnumber" : "10102268B",
+		"lotsize" : 1,
+		"shortname" : "МТС Банк"
+	},
+	{
+		"id" : "MDMG",
+		"regnumber" : "1-01-16802-A",
+		"lotsize" : 1,
+		"shortname" : "MDMG-ао"
+	},
+	{
+		"id" : "MFGS",
+		"regnumber" : "1-03-00149-A",
+		"lotsize" : 10,
+		"shortname" : "Мегион-ао"
+	},
+	{
+		"id" : "MFGSP",
+		"regnumber" : "2-03-00149-A",
+		"lotsize" : 10,
+		"shortname" : "Мегион-ап"
+	},
+	{
+		"id" : "MGKL",
+		"regnumber" : "1-01-11915-A",
+		"lotsize" : 100,
+		"shortname" : "МГКЛ"
+	},
+	{
+		"id" : "MGNT",
+		"regnumber" : "1-01-60525-P",
+		"lotsize" : 1,
+		"shortname" : "Магнит ао"
+	},
+	{
+		"id" : "MGNZ",
+		"regnumber" : "1-01-00283-A",
+		"lotsize" : 1,
+		"shortname" : "СМЗ-ао"
+	},
+	{
+		"id" : "MGTS",
+		"regnumber" : "1-05-00083-A",
+		"lotsize" : 1,
+		"shortname" : "МГТС-5ао"
+	},
+	{
+		"id" : "MGTSP",
+		"regnumber" : "2-04-00083-A",
+		"lotsize" : 1,
+		"shortname" : "МГТС-4ап"
+	},
+	{
+		"id" : "MISB",
+		"regnumber" : "1-01-50086-A",
+		"lotsize" : 100,
+		"shortname" : "ТНСэнМарЭл"
+	},
+	{
+		"id" : "MISBP",
+		"regnumber" : "2-01-50086-A",
+		"lotsize" : 100,
+		"shortname" : "ТНСэМаЭл-п"
+	},
+	{
+		"id" : "MKBD",
+		"regnumber" : "4474",
+		"lotsize" : 1,
+		"shortname" : "MKBD ETF"
+	},
+	{
+		"id" : "MOEX",
+		"regnumber" : "1-05-08443-H",
+		"lotsize" : 10,
+		"shortname" : "МосБиржа"
+	},
+	{
+		"id" : "MONY",
+		"regnumber" : "6661",
+		"lotsize" : 1,
+		"shortname" : "MONY ETF"
+	},
+	{
+		"id" : "MRKC",
+		"regnumber" : "1-01-10214-A",
+		"lotsize" : 1000,
+		"shortname" : "РоссЦентр"
+	},
+	{
+		"id" : "MRKK",
+		"regnumber" : "1-01-34747-E",
+		"lotsize" : 10,
+		"shortname" : "Россети СК"
+	},
+	{
+		"id" : "MRKP",
+		"regnumber" : "1-01-12665-E",
+		"lotsize" : 10000,
+		"shortname" : "РСетиЦП ао"
+	},
+	{
+		"id" : "MRKS",
+		"regnumber" : "1-01-12044-F",
+		"lotsize" : 1000,
+		"shortname" : "РсетСиб ао"
+	},
+	{
+		"id" : "MRKU",
+		"regnumber" : "1-01-32501-D",
+		"lotsize" : 10000,
+		"shortname" : "Россети Ур"
+	},
+	{
+		"id" : "MRKV",
+		"regnumber" : "1-01-04247-E",
+		"lotsize" : 10000,
+		"shortname" : "РсетВол ао"
+	},
+	{
+		"id" : "MRKY",
+		"regnumber" : "1-01-34956-E",
+		"lotsize" : 10000,
+		"shortname" : "РоссЮг ао"
+	},
+	{
+		"id" : "MRKZ",
+		"regnumber" : "1-01-03347-D",
+		"lotsize" : 10000,
+		"shortname" : "РСетиСЗ ао"
+	},
+	{
+		"id" : "MRSB",
+		"regnumber" : "1-01-55055-E",
+		"lotsize" : 10000,
+		"shortname" : "МордЭнСб"
+	},
+	{
+		"id" : "MSNG",
+		"regnumber" : "1-01-00085-A",
+		"lotsize" : 1000,
+		"shortname" : "+МосЭнерго"
+	},
+	{
+		"id" : "MSRS",
+		"regnumber" : "1-01-65116-D",
+		"lotsize" : 1000,
+		"shortname" : "РСетиМР ао"
+	},
+	{
+		"id" : "MSTT",
+		"regnumber" : "1-03-02472-A",
+		"lotsize" : 10,
+		"shortname" : "Мостотрест"
+	},
+	{
+		"id" : "MTLR",
+		"regnumber" : "1-01-55005-E",
+		"lotsize" : 1,
+		"shortname" : "Мечел ао"
+	},
+	{
+		"id" : "MTLRP",
+		"regnumber" : "2-01-55005-E",
+		"lotsize" : 10,
+		"shortname" : "Мечел ап"
+	},
+	{
+		"id" : "MTSS",
+		"regnumber" : "1-01-04715-A",
+		"lotsize" : 10,
+		"shortname" : "МТС-ао"
+	},
+	{
+		"id" : "MVID",
+		"regnumber" : "1-02-11700-A",
+		"lotsize" : 1,
+		"shortname" : "М.видео"
+	},
+	{
+		"id" : "NAUK",
+		"regnumber" : "1-01-04440-A",
+		"lotsize" : 10,
+		"shortname" : "iНПОНаука"
+	},
+	{
+		"id" : "NFAZ",
+		"regnumber" : "1-01-30520-D",
+		"lotsize" : 10,
+		"shortname" : "НЕФАЗ"
+	},
+	{
+		"id" : "NFKL",
+		"regnumber" : "7852",
+		"lotsize" : 1,
+		"shortname" : "NFKL ETF"
+	},
+	{
+		"id" : "NKHP",
+		"regnumber" : "1-03-35684-E",
+		"lotsize" : 10,
+		"shortname" : "НКХП ао"
+	},
+	{
+		"id" : "NKNC",
+		"regnumber" : "1-02-00096-A",
+		"lotsize" : 10,
+		"shortname" : "НКНХ ао"
+	},
+	{
+		"id" : "NKNCP",
+		"regnumber" : "2-02-00096-A",
+		"lotsize" : 10,
+		"shortname" : "НКНХ ап"
+	},
+	{
+		"id" : "NKSH",
+		"regnumber" : "1-02-55032-D",
+		"lotsize" : 100,
+		"shortname" : "Нижкамшина"
+	},
+	{
+		"id" : "NLMK",
+		"regnumber" : "1-01-00102-A",
+		"lotsize" : 10,
+		"shortname" : "НЛМК ао"
+	},
+	{
+		"id" : "NMTP",
+		"regnumber" : "1-01-30251-E",
+		"lotsize" : 100,
+		"shortname" : "НМТП ао"
+	},
+	{
+		"id" : "NNSB",
+		"regnumber" : "1-01-55072-E",
+		"lotsize" : 1,
+		"shortname" : "ТНСэнНН ао"
+	},
+	{
+		"id" : "NNSBP",
+		"regnumber" : "2-01-55072-E",
+		"lotsize" : 1,
+		"shortname" : "ТНСэнНН ап"
+	},
+	{
+		"id" : "NSVZ",
+		"regnumber" : "1-01-12689-A",
+		"lotsize" : 10,
+		"shortname" : "iНаукаСвяз"
+	},
+	{
+		"id" : "NVTK",
+		"regnumber" : "1-02-00268-E",
+		"lotsize" : 1,
+		"shortname" : "Новатэк ао"
+	},
+	{
+		"id" : "OBLG",
+		"regnumber" : "3647",
+		"lotsize" : 1,
+		"shortname" : "OBLG ETF"
+	},
+	{
+		"id" : "OFZS",
+		"regnumber" : "7801",
+		"lotsize" : 1,
+		"shortname" : "OFZS ETF"
+	},
+	{
+		"id" : "OGKB",
+		"regnumber" : "1-02-65105-D",
+		"lotsize" : 1000,
+		"shortname" : "ОГК-2 ао"
+	},
+	{
+		"id" : "OKEY",
+		"regnumber" : null,
+		"lotsize" : 10,
+		"shortname" : "OKEY-гдр"
+	},
+	{
+		"id" : "OLIQ",
+		"regnumber" : "7797",
+		"lotsize" : 1,
+		"shortname" : "OLIQ ETF"
+	},
+	{
+		"id" : "OMZZP",
+		"regnumber" : "2-01-30174-D",
+		"lotsize" : 1,
+		"shortname" : "ОМЗ-ап"
+	},
+	{
+		"id" : "OZON",
+		"regnumber" : "1-01-17182-A",
+		"lotsize" : 1,
+		"shortname" : "Озон"
+	},
+	{
+		"id" : "OZPH",
+		"regnumber" : "1-01-10877-P",
+		"lotsize" : 10,
+		"shortname" : "iОзонФарм"
+	},
+	{
+		"id" : "PAZA",
+		"regnumber" : "1-02-00261-A",
+		"lotsize" : 1,
+		"shortname" : "ПавлАвт ао"
+	},
+	{
+		"id" : "PHOR",
+		"regnumber" : "1-02-06556-A",
+		"lotsize" : 1,
+		"shortname" : "ФосАгро ао"
+	},
+	{
+		"id" : "PIKK",
+		"regnumber" : "1-02-01556-A",
+		"lotsize" : 1,
+		"shortname" : "ПИК ао"
+	},
+	{
+		"id" : "PLZL",
+		"regnumber" : "1-01-55192-E",
+		"lotsize" : 1,
+		"shortname" : "Полюс"
+	},
+	{
+		"id" : "PMSB",
+		"regnumber" : "1-01-55084-E",
+		"lotsize" : 10,
+		"shortname" : "ПермьЭнСб"
+	},
+	{
+		"id" : "PMSBP",
+		"regnumber" : "2-01-55084-E",
+		"lotsize" : 10,
+		"shortname" : "ПермьЭнС-п"
+	},
+	{
+		"id" : "POSI",
+		"regnumber" : "1-01-85307-H",
+		"lotsize" : 1,
+		"shortname" : "iПозитив"
+	},
+	{
+		"id" : "PRFN",
+		"regnumber" : "1-01-45194-D",
+		"lotsize" : 100,
+		"shortname" : "ТЕПЛАНТ ао"
+	},
+	{
+		"id" : "PRIE",
+		"regnumber" : "4362",
+		"lotsize" : 1,
+		"shortname" : "PRIE ETF"
+	},
+	{
+		"id" : "PRMB",
+		"regnumber" : "10103001B",
+		"lotsize" : 1,
+		"shortname" : "Приморье"
+	},
+	{
+		"id" : "PRMD",
+		"regnumber" : "1-01-01622-G",
+		"lotsize" : 1,
+		"shortname" : "iПРОМОМЕД"
+	},
+	{
+		"id" : "PSGM",
+		"regnumber" : "6919",
+		"lotsize" : 1,
+		"shortname" : "PSGM ETF"
+	},
+	{
+		"id" : "PSMM",
+		"regnumber" : "6170",
+		"lotsize" : 1,
+		"shortname" : "PSMM ETF"
+	},
+	{
+		"id" : "PSRB",
+		"regnumber" : "6626",
+		"lotsize" : 1,
+		"shortname" : "PSRB ETF"
+	},
+	{
+		"id" : "PSRE",
+		"regnumber" : "7155",
+		"lotsize" : 1,
+		"shortname" : "PSRE ETF"
+	},
+	{
+		"id" : "RAGR",
+		"regnumber" : "1-01-14044-A",
+		"lotsize" : 1,
+		"shortname" : "Русагро"
+	},
+	{
+		"id" : "RASP",
+		"regnumber" : "1-04-21725-N",
+		"lotsize" : 10,
+		"shortname" : "Распадская"
+	},
+	{
+		"id" : "RBCM",
+		"regnumber" : "1-02-56413-H",
+		"lotsize" : 100,
+		"shortname" : "ГК РБК ао"
+	},
+	{
+		"id" : "RDRB",
+		"regnumber" : "10201573B",
+		"lotsize" : 10,
+		"shortname" : "РДБанк ао"
+	},
+	{
+		"id" : "RENI",
+		"regnumber" : "1-01-10601-Z",
+		"lotsize" : 10,
+		"shortname" : "Ренессанс"
+	},
+	{
+		"id" : "RGSS",
+		"regnumber" : "1-03-10003-Z",
+		"lotsize" : 1000,
+		"shortname" : "РГС СК ао"
+	},
+	{
+		"id" : "RKKE",
+		"regnumber" : "1-03-01091-A",
+		"lotsize" : 1,
+		"shortname" : "ЭнергияРКК"
+	},
+	{
+		"id" : "RNFT",
+		"regnumber" : "1-02-39134-H",
+		"lotsize" : 1,
+		"shortname" : "РуссНфт ао"
+	},
+	{
+		"id" : "ROLO",
+		"regnumber" : "1-01-15065-A",
+		"lotsize" : 1000,
+		"shortname" : "Русолово"
+	},
+	{
+		"id" : "ROSN",
+		"regnumber" : "1-02-00122-A",
+		"lotsize" : 1,
+		"shortname" : "Роснефть"
+	},
+	{
+		"id" : "ROST",
+		"regnumber" : "1-02-55033-E",
+		"lotsize" : 10,
+		"shortname" : "РОСИНТЕРао"
+	},
+	{
+		"id" : "RSHU",
+		"regnumber" : "3906",
+		"lotsize" : 1,
+		"shortname" : "RSHU ETF"
+	},
+	{
+		"id" : "RTGZ",
+		"regnumber" : "1-02-30742-E",
+		"lotsize" : 1,
+		"shortname" : "ГР Ростов"
+	},
+	{
+		"id" : "RTKM",
+		"regnumber" : "1-01-00124-A",
+		"lotsize" : 10,
+		"shortname" : "Ростел -ао"
+	},
+	{
+		"id" : "RTKMP",
+		"regnumber" : "2-01-00124-A",
+		"lotsize" : 10,
+		"shortname" : "Ростел -ап"
+	},
+	{
+		"id" : "RTSB",
+		"regnumber" : "1-01-50095-A",
+		"lotsize" : 1000,
+		"shortname" : "ТНСэнРст"
+	},
+	{
+		"id" : "RTSBP",
+		"regnumber" : "2-01-50095-A",
+		"lotsize" : 1000,
+		"shortname" : "ТНСэнРст-п"
+	},
+	{
+		"id" : "RU0005418747",
+		"regnumber" : "0029-18610555",
+		"lotsize" : 1,
+		"shortname" : "ФондПервый"
+	},
+	{
+		"id" : "RU0006922010",
+		"regnumber" : "0056-56658088",
+		"lotsize" : 1,
+		"shortname" : "ФондКонс"
+	},
+	{
+		"id" : "RU0006922044",
+		"regnumber" : "0053-56612554",
+		"lotsize" : 1,
+		"shortname" : "БКСАкцрост"
+	},
+	{
+		"id" : "RU000A0HGNG6",
+		"regnumber" : "0363-75409054",
+		"lotsize" : 1,
+		"shortname" : "АрсагераФА"
+	},
+	{
+		"id" : "RU000A0HGNH4",
+		"regnumber" : "0364-75409132",
+		"lotsize" : 1,
+		"shortname" : "ПИФАрсСИ"
+	},
+	{
+		"id" : "RU000A0JP773",
+		"regnumber" : "0278-58233720",
+		"lotsize" : 1,
+		"shortname" : "БКС РосАкц"
+	},
+	{
+		"id" : "RU000A0JP799",
+		"regnumber" : "0140-58233625",
+		"lotsize" : 1,
+		"shortname" : "БКС РосОбл"
+	},
+	{
+		"id" : "RU000A0JPMD2",
+		"regnumber" : "0439-75408664",
+		"lotsize" : 1,
+		"shortname" : "ПИФАрс6.4"
+	},
+	{
+		"id" : "RU000A0JPZL7",
+		"regnumber" : "1076-58229138",
+		"lotsize" : 100,
+		"shortname" : "АкБрс-Инв"
+	},
+	{
+		"id" : "RU000A0JPZP8",
+		"regnumber" : "0792-75407676",
+		"lotsize" : 1,
+		"shortname" : "АкБрс-Прсп"
+	},
+	{
+		"id" : "RU000A0JR282",
+		"regnumber" : "0968-94131582",
+		"lotsize" : 10,
+		"shortname" : "ПИФ Акции"
+	},
+	{
+		"id" : "RU000A0JR290",
+		"regnumber" : "0177-71671092",
+		"lotsize" : 1,
+		"shortname" : "ПИФИнМосБр"
+	},
+	{
+		"id" : "RU000A0JR2A5",
+		"regnumber" : "0962-94131346",
+		"lotsize" : 100,
+		"shortname" : "ПИФСбалан"
+	},
+	{
+		"id" : "RU000A0JR2C1",
+		"regnumber" : "0089-59893097",
+		"lotsize" : 10,
+		"shortname" : "ПИФКазна"
+	},
+	{
+		"id" : "RU000A0JRHC0",
+		"regnumber" : "1899-94168527",
+		"lotsize" : 1,
+		"shortname" : "ПИФ АТРИУМ"
+	},
+	{
+		"id" : "RU000A0JRUQ3",
+		"regnumber" : "0078-58234010",
+		"lotsize" : 1,
+		"shortname" : "ТКБИП Сбал"
+	},
+	{
+		"id" : "RU000A0JUR61",
+		"regnumber" : "2006-94172747",
+		"lotsize" : 1,
+		"shortname" : "ПИФ КОНСЕР"
+	},
+	{
+		"id" : "RU000A0JUYB1",
+		"regnumber" : "0521-75409008",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФЛофтин"
+	},
+	{
+		"id" : "RU000A0JVJ29",
+		"regnumber" : "2515",
+		"lotsize" : 1,
+		"shortname" : "БКСДрагМет"
+	},
+	{
+		"id" : "RU000A0JWCE7",
+		"regnumber" : "2423",
+		"lotsize" : 1,
+		"shortname" : "Перловский"
+	},
+	{
+		"id" : "RU000A0JXP78",
+		"regnumber" : "3164",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФДОМ.РФ"
+	},
+	{
+		"id" : "RU000A0JXWF0",
+		"regnumber" : "2721",
+		"lotsize" : 1,
+		"shortname" : "АрсКР1.55"
+	},
+	{
+		"id" : "RU000A0ZYC64",
+		"regnumber" : "3219",
+		"lotsize" : 1,
+		"shortname" : "СоврАрБиз2"
+	},
+	{
+		"id" : "RU000A0ZZ5R2",
+		"regnumber" : "3445",
+		"lotsize" : 1,
+		"shortname" : "СоврАрБиз3"
+	},
+	{
+		"id" : "RU000A0ZZCD8",
+		"regnumber" : "3483",
+		"lotsize" : 1,
+		"shortname" : "ИПИФМирИнв"
+	},
+	{
+		"id" : "RU000A0ZZMD7",
+		"regnumber" : "2567",
+		"lotsize" : 1,
+		"shortname" : "РСХБ Облиг"
+	},
+	{
+		"id" : "RU000A0ZZME5",
+		"regnumber" : "2797",
+		"lotsize" : 1,
+		"shortname" : "РСХБКазнач"
+	},
+	{
+		"id" : "RU000A0ZZML0",
+		"regnumber" : "2566",
+		"lotsize" : 1,
+		"shortname" : "РСХБ Сбал"
+	},
+	{
+		"id" : "RU000A0ZZMN6",
+		"regnumber" : "2568",
+		"lotsize" : 1,
+		"shortname" : "РСХБ Акции"
+	},
+	{
+		"id" : "RU000A0ZZVH9",
+		"regnumber" : "3447",
+		"lotsize" : 1,
+		"shortname" : "ГПБУАЕОбИП"
+	},
+	{
+		"id" : "RU000A1000W4",
+		"regnumber" : "3606",
+		"lotsize" : 1,
+		"shortname" : "ХаризмИдеи"
+	},
+	{
+		"id" : "RU000A1000Y0",
+		"regnumber" : "3638",
+		"lotsize" : 1,
+		"shortname" : "iпре-АйПиО"
+	},
+	{
+		"id" : "RU000A100EQ2",
+		"regnumber" : "3665",
+		"lotsize" : 1,
+		"shortname" : "БКС РосЕвр"
+	},
+	{
+		"id" : "RU000A100WZ5",
+		"regnumber" : "3872",
+		"lotsize" : 1,
+		"shortname" : "АКЦЕНТ 4"
+	},
+	{
+		"id" : "RU000A101NK4",
+		"regnumber" : "3964",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФ ФПР"
+	},
+	{
+		"id" : "RU000A101UK9",
+		"regnumber" : "2416",
+		"lotsize" : 1,
+		"shortname" : "ОРЕОЛСтрой"
+	},
+	{
+		"id" : "RU000A101UY0",
+		"regnumber" : "4073",
+		"lotsize" : 1,
+		"shortname" : "ОПИФ MM"
+	},
+	{
+		"id" : "RU000A1022Z1",
+		"regnumber" : "4095-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-ОЗН"
+	},
+	{
+		"id" : "RU000A1027E5",
+		"regnumber" : "4025",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФ ВДО"
+	},
+	{
+		"id" : "RU000A102AH5",
+		"regnumber" : "4171",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФСовр 6"
+	},
+	{
+		"id" : "RU000A102N77",
+		"regnumber" : "3891",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФРД"
+	},
+	{
+		"id" : "RU000A102PE0",
+		"regnumber" : "4280-СД",
+		"lotsize" : 1,
+		"shortname" : "Фондсуб1"
+	},
+	{
+		"id" : "RU000A102PF7",
+		"regnumber" : "4281-СД",
+		"lotsize" : 1,
+		"shortname" : "Фондсуб2"
+	},
+	{
+		"id" : "RU000A102PN1",
+		"regnumber" : "4265",
+		"lotsize" : 1,
+		"shortname" : "ПИФАльфаФФ"
+	},
+	{
+		"id" : "RU000A102PQ4",
+		"regnumber" : "4283-СД",
+		"lotsize" : 1,
+		"shortname" : "ФондСубРуб"
+	},
+	{
+		"id" : "RU000A1034U7",
+		"regnumber" : "4416",
+		"lotsize" : 1,
+		"shortname" : "СФНАрБиз7"
+	},
+	{
+		"id" : "RU000A103B62",
+		"regnumber" : "4455-СД",
+		"lotsize" : 1,
+		"shortname" : "РенДохПРО"
+	},
+	{
+		"id" : "RU000A103HD7",
+		"regnumber" : "4508",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФРД2"
+	},
+	{
+		"id" : "RU000A104172",
+		"regnumber" : "4559-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-СБЛ"
+	},
+	{
+		"id" : "RU000A104KU3",
+		"regnumber" : "4570-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-НОРД"
+	},
+	{
+		"id" : "RU000A104M43",
+		"regnumber" : "3343",
+		"lotsize" : 1,
+		"shortname" : "ПИФ Аленка"
+	},
+	{
+		"id" : "RU000A104YX8",
+		"regnumber" : "4857-СД",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФКомНед"
+	},
+	{
+		"id" : "RU000A105153",
+		"regnumber" : "4853-СД",
+		"lotsize" : 1,
+		"shortname" : "ХеджФондР5"
+	},
+	{
+		"id" : "RU000A105328",
+		"regnumber" : "4604-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-ЛОГ"
+	},
+	{
+		"id" : "RU000A105GY0",
+		"regnumber" : "5036-СД",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФПервСп"
+	},
+	{
+		"id" : "RU000A105R70",
+		"regnumber" : "4826-СД",
+		"lotsize" : 1,
+		"shortname" : "Аннапурна"
+	},
+	{
+		"id" : "RU000A105RJ8",
+		"regnumber" : "4140",
+		"lotsize" : 1,
+		"shortname" : "РСХБДолРын"
+	},
+	{
+		"id" : "RU000A105TU1",
+		"regnumber" : "5270",
+		"lotsize" : 1,
+		"shortname" : "БКСКапитал"
+	},
+	{
+		"id" : "RU000A1068X9",
+		"regnumber" : "4434-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-ДВН"
+	},
+	{
+		"id" : "RU000A106CX9",
+		"regnumber" : "5420",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФА-ЮМ"
+	},
+	{
+		"id" : "RU000A106G80",
+		"regnumber" : "5435-СД",
+		"lotsize" : 1,
+		"shortname" : "ТКЗамещОбл"
+	},
+	{
+		"id" : "RU000A106LB6",
+		"regnumber" : "5476-СД",
+		"lotsize" : 1,
+		"shortname" : "ВсеСзПортф"
+	},
+	{
+		"id" : "RU000A106LC4",
+		"regnumber" : "5475-СД",
+		"lotsize" : 1,
+		"shortname" : "МаксВозм"
+	},
+	{
+		"id" : "RU000A106MG3",
+		"regnumber" : "5314-СД",
+		"lotsize" : 1,
+		"shortname" : "ХеджФондД5"
+	},
+	{
+		"id" : "RU000A106N57",
+		"regnumber" : "5509-СД",
+		"lotsize" : 1,
+		"shortname" : "Атон-Об2.0"
+	},
+	{
+		"id" : "RU000A106SA3",
+		"regnumber" : "5576-СД",
+		"lotsize" : 1,
+		"shortname" : "Телескоп А"
+	},
+	{
+		"id" : "RU000A106XE5",
+		"regnumber" : "5617-СД",
+		"lotsize" : 10000,
+		"shortname" : "Саммит"
+	},
+	{
+		"id" : "RU000A1075T2",
+		"regnumber" : "4843-СД",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФ Рубин"
+	},
+	{
+		"id" : "RU000A107860",
+		"regnumber" : "5313-СД",
+		"lotsize" : 1,
+		"shortname" : "ХеджФондЮ5"
+	},
+	{
+		"id" : "RU000A1079J5",
+		"regnumber" : "5493-СД",
+		"lotsize" : 1,
+		"shortname" : "ХеджФондД1"
+	},
+	{
+		"id" : "RU000A107J37",
+		"regnumber" : "5948",
+		"lotsize" : 1,
+		"shortname" : "ПИФ СЖН"
+	},
+	{
+		"id" : "RU000A107RE5",
+		"regnumber" : "6002",
+		"lotsize" : 1,
+		"shortname" : "ПИФ Коллек"
+	},
+	{
+		"id" : "RU000A107U08",
+		"regnumber" : "6022",
+		"lotsize" : 1,
+		"shortname" : "РазумИнвес"
+	},
+	{
+		"id" : "RU000A108751",
+		"regnumber" : "6101-СД",
+		"lotsize" : 1,
+		"shortname" : "ПИФПромПар"
+	},
+	{
+		"id" : "RU000A108KP4",
+		"regnumber" : "6157-СД",
+		"lotsize" : 1,
+		"shortname" : "ХеджФондА+"
+	},
+	{
+		"id" : "RU000A108TT7",
+		"regnumber" : "6266",
+		"lotsize" : 1,
+		"shortname" : "БКСДивАкци"
+	},
+	{
+		"id" : "RU000A108UH0",
+		"regnumber" : "5849-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-КРАС"
+	},
+	{
+		"id" : "RU000A108VR7",
+		"regnumber" : "6219-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-МАКС"
+	},
+	{
+		"id" : "RU000A108ZB2",
+		"regnumber" : "6323-СД",
+		"lotsize" : 1,
+		"shortname" : "2хОФЗ"
+	},
+	{
+		"id" : "RU000A1092L4",
+		"regnumber" : "6211",
+		"lotsize" : 1,
+		"shortname" : "ПИФАКТИВ20"
+	},
+	{
+		"id" : "RU000A1095D4",
+		"regnumber" : "6366-СД",
+		"lotsize" : 1,
+		"shortname" : "Атон - ОФЗ"
+	},
+	{
+		"id" : "RU000A1099U0",
+		"regnumber" : "6412",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФСовр 9"
+	},
+	{
+		"id" : "RU000A109G79",
+		"regnumber" : "6234-СД",
+		"lotsize" : 1,
+		"shortname" : "ПИФГРИНФЛО"
+	},
+	{
+		"id" : "RU000A109GQ8",
+		"regnumber" : "6461",
+		"lotsize" : 1,
+		"shortname" : "ПИФСкладК2"
+	},
+	{
+		"id" : "RU000A109NL5",
+		"regnumber" : "6516-СД",
+		"lotsize" : 1,
+		"shortname" : "ТЕТИС ИН"
+	},
+	{
+		"id" : "RU000A109QR5",
+		"regnumber" : "5096",
+		"lotsize" : 1,
+		"shortname" : "ААА Золото"
+	},
+	{
+		"id" : "RU000A109R27",
+		"regnumber" : "6545-СД",
+		"lotsize" : 1,
+		"shortname" : "2х Акции"
+	},
+	{
+		"id" : "RU000A10A489",
+		"regnumber" : "6648-СД",
+		"lotsize" : 1,
+		"shortname" : "ПИФПарки2"
+	},
+	{
+		"id" : "RU000A10AN72",
+		"regnumber" : "6761-СД",
+		"lotsize" : 1,
+		"shortname" : "Синара"
+	},
+	{
+		"id" : "RU000A10AQT4",
+		"regnumber" : "6815-СД",
+		"lotsize" : 10,
+		"shortname" : "Достояние"
+	},
+	{
+		"id" : "RU000A10ATA8",
+		"regnumber" : "6721",
+		"lotsize" : 1,
+		"shortname" : "ПИФАКТИВФЛ"
+	},
+	{
+		"id" : "RU000A10BBS6",
+		"regnumber" : "6831-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-НиНо"
+	},
+	{
+		"id" : "RU000A10BM31",
+		"regnumber" : "7031-СД",
+		"lotsize" : 1,
+		"shortname" : "ВИМ Вал пл"
+	},
+	{
+		"id" : "RU000A10BQP0",
+		"regnumber" : "7057",
+		"lotsize" : 1,
+		"shortname" : "БКС ОФЗ ВД"
+	},
+	{
+		"id" : "RU000A10BQQ8",
+		"regnumber" : "6843-СД",
+		"lotsize" : 1,
+		"shortname" : "ЛАХТА ПАРК"
+	},
+	{
+		"id" : "RU000A10BT26",
+		"regnumber" : "7074-СД",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФА-Т"
+	},
+	{
+		"id" : "RU000A10BT42",
+		"regnumber" : "7090-СД",
+		"lotsize" : 1,
+		"shortname" : "ФЖН-1"
+	},
+	{
+		"id" : "RU000A10CFM8",
+		"regnumber" : "7223-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-ЗОЛЯ"
+	},
+	{
+		"id" : "RU000A10CKQ9",
+		"regnumber" : "7030-СД",
+		"lotsize" : 1,
+		"shortname" : "АлфаКомНед"
+	},
+	{
+		"id" : "RU000A10CLY1",
+		"regnumber" : "7004",
+		"lotsize" : 1,
+		"shortname" : "ПИФАКТИВ21"
+	},
+	{
+		"id" : "RU000A10D7W9",
+		"regnumber" : "7371-СД",
+		"lotsize" : 1,
+		"shortname" : "СинараВОбл"
+	},
+	{
+		"id" : "RU000A10D814",
+		"regnumber" : "7368-СД",
+		"lotsize" : 1,
+		"shortname" : "ТермКап"
+	},
+	{
+		"id" : "RU000A10E3R7",
+		"regnumber" : "7411",
+		"lotsize" : 1,
+		"shortname" : "ПИФАКТИВ22"
+	},
+	{
+		"id" : "RU000A10ECF5",
+		"regnumber" : "7607-СД",
+		"lotsize" : 1,
+		"shortname" : "Атон-ПфСтр"
+	},
+	{
+		"id" : "RU000A10ECJ7",
+		"regnumber" : "7604-СД",
+		"lotsize" : 1,
+		"shortname" : "Атон Выбор"
+	},
+	{
+		"id" : "RU000A10EVE8",
+		"regnumber" : "7728-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-МВ"
+	},
+	{
+		"id" : "RU000A10F439",
+		"regnumber" : "7770-СД",
+		"lotsize" : 1,
+		"shortname" : "ПИФПарки3"
+	},
+	{
+		"id" : "RU000A10FDU9",
+		"regnumber" : "7837",
+		"lotsize" : 1,
+		"shortname" : "РСХБ Смарт"
+	},
+	{
+		"id" : "RU000A10FQ17",
+		"regnumber" : "7971",
+		"lotsize" : 1,
+		"shortname" : "БКС ДР ВД"
+	},
+	{
+		"id" : "RUAL",
+		"regnumber" : "1-01-16677-A",
+		"lotsize" : 10,
+		"shortname" : "РУСАЛ ао"
+	},
+	{
+		"id" : "RUFO",
+		"regnumber" : "7800",
+		"lotsize" : 1,
+		"shortname" : "RUFO ETF"
+	},
+	{
+		"id" : "RUSI",
+		"regnumber" : "1-01-00409-A",
+		"lotsize" : 10,
+		"shortname" : "ИКРУСС-ИНВ"
+	},
+	{
+		"id" : "RZSB",
+		"regnumber" : "1-01-50092-A",
+		"lotsize" : 100,
+		"shortname" : "РязЭнСб"
+	},
+	{
+		"id" : "SAFE",
+		"regnumber" : "4431",
+		"lotsize" : 1,
+		"shortname" : "SAFE ETF"
+	},
+	{
+		"id" : "SAGO",
+		"regnumber" : "1-02-00127-A",
+		"lotsize" : 1000,
+		"shortname" : "СамарЭн-ао"
+	},
+	{
+		"id" : "SAGOP",
+		"regnumber" : "2-02-00127-A",
+		"lotsize" : 1000,
+		"shortname" : "СамарЭн-ап"
+	},
+	{
+		"id" : "SARE",
+		"regnumber" : "1-02-00132-A",
+		"lotsize" : 10000,
+		"shortname" : "СаратЭн-ао"
+	},
+	{
+		"id" : "SAREP",
+		"regnumber" : "2-02-00132-A",
+		"lotsize" : 10000,
+		"shortname" : "СаратЭн-ап"
+	},
+	{
+		"id" : "SBBC",
+		"regnumber" : "6938",
+		"lotsize" : 1,
+		"shortname" : "SBBC ETF"
+	},
+	{
+		"id" : "SBBY",
+		"regnumber" : "5472",
+		"lotsize" : 1,
+		"shortname" : "SBBY ETF"
+	},
+	{
+		"id" : "SBCB",
+		"regnumber" : "3636",
+		"lotsize" : 1,
+		"shortname" : "SBCB ETF"
+	},
+	{
+		"id" : "SBCN",
+		"regnumber" : "5230",
+		"lotsize" : 1,
+		"shortname" : "SBCN ETF"
+	},
+	{
+		"id" : "SBDS",
+		"regnumber" : "4428",
+		"lotsize" : 1,
+		"shortname" : "SBDS ETF"
+	},
+	{
+		"id" : "SBER",
+		"regnumber" : "10301481B",
+		"lotsize" : 1,
+		"shortname" : "Сбербанк"
+	},
+	{
+		"id" : "SBERP",
+		"regnumber" : "20301481B",
+		"lotsize" : 1,
+		"shortname" : "Сбербанк-п"
+	},
+	{
+		"id" : "SBFR",
+		"regnumber" : "5972",
+		"lotsize" : 1,
+		"shortname" : "SBFR ETF"
+	},
+	{
+		"id" : "SBGB",
+		"regnumber" : "3629",
+		"lotsize" : 1,
+		"shortname" : "SBGB ETF"
+	},
+	{
+		"id" : "SBGD",
+		"regnumber" : "5061",
+		"lotsize" : 1,
+		"shortname" : "SBGD ETF"
+	},
+	{
+		"id" : "SBHI",
+		"regnumber" : "4678",
+		"lotsize" : 1,
+		"shortname" : "SBHI ETF"
+	},
+	{
+		"id" : "SBLB",
+		"regnumber" : "6079",
+		"lotsize" : 1,
+		"shortname" : "SBLB ETF"
+	},
+	{
+		"id" : "SBMM",
+		"regnumber" : "4607",
+		"lotsize" : 1,
+		"shortname" : "SBMM ETF"
+	},
+	{
+		"id" : "SBMX",
+		"regnumber" : "3555",
+		"lotsize" : 1,
+		"shortname" : "SBMX ETF"
+	},
+	{
+		"id" : "SBPS",
+		"regnumber" : "4427",
+		"lotsize" : 1,
+		"shortname" : "SBPS ETF"
+	},
+	{
+		"id" : "SBRB",
+		"regnumber" : "3785",
+		"lotsize" : 1,
+		"shortname" : "SBRB ETF"
+	},
+	{
+		"id" : "SBRI",
+		"regnumber" : "4162",
+		"lotsize" : 1,
+		"shortname" : "SBRI ETF"
+	},
+	{
+		"id" : "SBRS",
+		"regnumber" : "4426",
+		"lotsize" : 1,
+		"shortname" : "SBRS ETF"
+	},
+	{
+		"id" : "SBSC",
+		"regnumber" : "5649",
+		"lotsize" : 1,
+		"shortname" : "SBSC ETF"
+	},
+	{
+		"id" : "SCFT",
+		"regnumber" : "4654",
+		"lotsize" : 1,
+		"shortname" : "SCFT ETF"
+	},
+	{
+		"id" : "SCLI",
+		"regnumber" : "6268",
+		"lotsize" : 1,
+		"shortname" : "SCLI ETF"
+	},
+	{
+		"id" : "SELG",
+		"regnumber" : "1-01-32694-F",
+		"lotsize" : 10,
+		"shortname" : "Селигдар"
+	},
+	{
+		"id" : "SFIN",
+		"regnumber" : "1-02-56453-P",
+		"lotsize" : 1,
+		"shortname" : "ЭсЭфАй ао"
+	},
+	{
+		"id" : "SGZH",
+		"regnumber" : "1-01-87154-H",
+		"lotsize" : 100,
+		"shortname" : "Сегежа"
+	},
+	{
+		"id" : "SIBN",
+		"regnumber" : "1-01-00146-A",
+		"lotsize" : 1,
+		"shortname" : "Газпрнефть"
+	},
+	{
+		"id" : "SILA",
+		"regnumber" : "7307",
+		"lotsize" : 1,
+		"shortname" : "SILA ETF"
+	},
+	{
+		"id" : "SIPO",
+		"regnumber" : "6312",
+		"lotsize" : 1,
+		"shortname" : "SIPO ETF"
+	},
+	{
+		"id" : "SLEN",
+		"regnumber" : "1-03-00272-A",
+		"lotsize" : 100,
+		"shortname" : "Сахэнер ао"
+	},
+	{
+		"id" : "SMCF",
+		"regnumber" : "6833",
+		"lotsize" : 1,
+		"shortname" : "SMCF ETF"
+	},
+	{
+		"id" : "SMLT",
+		"regnumber" : "1-01-16493-A",
+		"lotsize" : 1,
+		"shortname" : "Самолет ао"
+	},
+	{
+		"id" : "SNGS",
+		"regnumber" : "1-01-00155-A",
+		"lotsize" : 100,
+		"shortname" : "Сургнфгз"
+	},
+	{
+		"id" : "SNGSP",
+		"regnumber" : "2-01-00155-A",
+		"lotsize" : 10,
+		"shortname" : "Сургнфгз-п"
+	},
+	{
+		"id" : "SOFL",
+		"regnumber" : "1-01-45848-H",
+		"lotsize" : 10,
+		"shortname" : "iСофтлайн"
+	},
+	{
+		"id" : "SPBE",
+		"regnumber" : "1-01-55439-E",
+		"lotsize" : 1,
+		"shortname" : "СПБ Биржа"
+	},
+	{
+		"id" : "SPRN",
+		"regnumber" : "7610",
+		"lotsize" : 1,
+		"shortname" : "SPRN ETF"
+	},
+	{
+		"id" : "STME",
+		"regnumber" : "4429",
+		"lotsize" : 1,
+		"shortname" : "STME ETF"
+	},
+	{
+		"id" : "STSB",
+		"regnumber" : "1-01-50119-A",
+		"lotsize" : 1000,
+		"shortname" : "ЕГП"
+	},
+	{
+		"id" : "STSBP",
+		"regnumber" : "2-01-50119-A",
+		"lotsize" : 1000,
+		"shortname" : "ЕГП ап"
+	},
+	{
+		"id" : "SUGB",
+		"regnumber" : "4121",
+		"lotsize" : 1,
+		"shortname" : "SUGB ETF"
+	},
+	{
+		"id" : "SVAV",
+		"regnumber" : "1-01-02461-D",
+		"lotsize" : 1,
+		"shortname" : "СОЛЛЕРС"
+	},
+	{
+		"id" : "SVCB",
+		"regnumber" : "10100963B",
+		"lotsize" : 100,
+		"shortname" : "Совкомбанк"
+	},
+	{
+		"id" : "SVET",
+		"regnumber" : "1-01-24350-J",
+		"lotsize" : 1,
+		"shortname" : "Светофор"
+	},
+	{
+		"id" : "SVETP",
+		"regnumber" : "2-01-24350-J",
+		"lotsize" : 1,
+		"shortname" : "Светофор п"
+	},
+	{
+		"id" : "T",
+		"regnumber" : "1-01-16784-A",
+		"lotsize" : 1,
+		"shortname" : "Т-Техно ао"
+	},
+	{
+		"id" : "TASB",
+		"regnumber" : "1-01-65100-D",
+		"lotsize" : 1000,
+		"shortname" : "ТамбЭнСб"
+	},
+	{
+		"id" : "TASBP",
+		"regnumber" : "2-01-65100-D",
+		"lotsize" : 10000,
+		"shortname" : "ТамбЭнСб-п"
+	},
+	{
+		"id" : "TATN",
+		"regnumber" : "1-03-00161-A",
+		"lotsize" : 1,
+		"shortname" : "Татнфт 3ао"
+	},
+	{
+		"id" : "TATNP",
+		"regnumber" : "2-03-00161-A",
+		"lotsize" : 1,
+		"shortname" : "Татнфт 3ап"
+	},
+	{
+		"id" : "TBEU",
+		"regnumber" : "4618",
+		"lotsize" : 1,
+		"shortname" : "TBEU ETF"
+	},
+	{
+		"id" : "TBRU",
+		"regnumber" : "4458",
+		"lotsize" : 1,
+		"shortname" : "TBRU ETF"
+	},
+	{
+		"id" : "TDIV",
+		"regnumber" : "5707",
+		"lotsize" : 1,
+		"shortname" : "TDIV ETF"
+	},
+	{
+		"id" : "TEUR",
+		"regnumber" : "3899",
+		"lotsize" : 1,
+		"shortname" : "TEUR ETF"
+	},
+	{
+		"id" : "TGKA",
+		"regnumber" : "1-01-03388-D",
+		"lotsize" : 100000,
+		"shortname" : "ТГК-1"
+	},
+	{
+		"id" : "TGKB",
+		"regnumber" : "1-01-10420-A",
+		"lotsize" : 1000000,
+		"shortname" : "ТГК-2"
+	},
+	{
+		"id" : "TGKBP",
+		"regnumber" : "2-01-10420-A",
+		"lotsize" : 100000,
+		"shortname" : "ТГК-2 ап"
+	},
+	{
+		"id" : "TGKN",
+		"regnumber" : "1-01-22451-F",
+		"lotsize" : 100000,
+		"shortname" : "ТГК-14"
+	},
+	{
+		"id" : "TGLD",
+		"regnumber" : "4098",
+		"lotsize" : 1,
+		"shortname" : "TGLD ETF"
+	},
+	{
+		"id" : "TITR",
+		"regnumber" : "6126",
+		"lotsize" : 1,
+		"shortname" : "TITR ETF"
+	},
+	{
+		"id" : "TLCB",
+		"regnumber" : "5728",
+		"lotsize" : 1,
+		"shortname" : "TLCB ETF"
+	},
+	{
+		"id" : "TMON",
+		"regnumber" : "5229",
+		"lotsize" : 1,
+		"shortname" : "TMON ETF"
+	},
+	{
+		"id" : "TMOS",
+		"regnumber" : "4100",
+		"lotsize" : 1,
+		"shortname" : "TMOS ETF"
+	},
+	{
+		"id" : "TNSE",
+		"regnumber" : "1-01-15521-A",
+		"lotsize" : 1,
+		"shortname" : "ТНСэнрг ао"
+	},
+	{
+		"id" : "TOFZ",
+		"regnumber" : "6635",
+		"lotsize" : 1,
+		"shortname" : "TOFZ ETF"
+	},
+	{
+		"id" : "TOPS",
+		"regnumber" : "7798",
+		"lotsize" : 1,
+		"shortname" : "TOPS ETF"
+	},
+	{
+		"id" : "TORS",
+		"regnumber" : "1-01-50128-A",
+		"lotsize" : 10000,
+		"shortname" : "РСТомск ао"
+	},
+	{
+		"id" : "TORSP",
+		"regnumber" : "2-01-50128-A",
+		"lotsize" : 10000,
+		"shortname" : "РСТомск ап"
+	},
+	{
+		"id" : "TPAY",
+		"regnumber" : "6287",
+		"lotsize" : 1,
+		"shortname" : "TPAY ETF"
+	},
+	{
+		"id" : "TRMK",
+		"regnumber" : "1-01-29031-H",
+		"lotsize" : 10,
+		"shortname" : "ТМК ао"
+	},
+	{
+		"id" : "TRND",
+		"regnumber" : "6876",
+		"lotsize" : 1,
+		"shortname" : "TRND ETF"
+	},
+	{
+		"id" : "TRNFP",
+		"regnumber" : "2-01-00206-A",
+		"lotsize" : 1,
+		"shortname" : "Транснф ап"
+	},
+	{
+		"id" : "TRUR",
+		"regnumber" : "3900",
+		"lotsize" : 1,
+		"shortname" : "TRUR ETF"
+	},
+	{
+		"id" : "TSAV",
+		"regnumber" : "7939",
+		"lotsize" : 1,
+		"shortname" : "TSAV ETF"
+	},
+	{
+		"id" : "TTLK",
+		"regnumber" : "1-02-50049-A",
+		"lotsize" : 1000,
+		"shortname" : "Таттел. ао"
+	},
+	{
+		"id" : "TUSD",
+		"regnumber" : "3898",
+		"lotsize" : 1,
+		"shortname" : "TUSD ETF"
+	},
+	{
+		"id" : "TUZA",
+		"regnumber" : "1-01-30455-D",
+		"lotsize" : 10,
+		"shortname" : "ТЗА ао"
+	},
+	{
+		"id" : "UGLD",
+		"regnumber" : "1-02-33010-D",
+		"lotsize" : 1000,
+		"shortname" : "ЮГК"
+	},
+	{
+		"id" : "UKUZ",
+		"regnumber" : "1-02-10591-F",
+		"lotsize" : 1,
+		"shortname" : "ЮжКузб. ао"
+	},
+	{
+		"id" : "UNAC",
+		"regnumber" : "1-02-55306-E",
+		"lotsize" : 1000,
+		"shortname" : "iАвиастКао"
+	},
+	{
+		"id" : "UNKL",
+		"regnumber" : "1-01-00197-A",
+		"lotsize" : 1,
+		"shortname" : "ЮУНК ао"
+	},
+	{
+		"id" : "UPRO",
+		"regnumber" : "1-02-65104-D",
+		"lotsize" : 1000,
+		"shortname" : "Юнипро ао"
+	},
+	{
+		"id" : "URKZ",
+		"regnumber" : "1-01-32341-D",
+		"lotsize" : 1,
+		"shortname" : "УрКузница"
+	},
+	{
+		"id" : "USBN",
+		"regnumber" : "10200030B",
+		"lotsize" : 10000,
+		"shortname" : "УралСиб ао"
+	},
+	{
+		"id" : "UTAR",
+		"regnumber" : "1-01-00077-F",
+		"lotsize" : 100,
+		"shortname" : "ЮТэйр ао"
+	},
+	{
+		"id" : "UWGN",
+		"regnumber" : "1-01-82031-H",
+		"lotsize" : 1,
+		"shortname" : "ОВК ао"
+	},
+	{
+		"id" : "VDOR",
+		"regnumber" : "7681",
+		"lotsize" : 1,
+		"shortname" : "VDOR ETF"
+	},
+	{
+		"id" : "VEON-RX",
+		"regnumber" : null,
+		"lotsize" : 10,
+		"shortname" : "VEON"
+	},
+	{
+		"id" : "VGSB",
+		"regnumber" : "1-01-65103-D",
+		"lotsize" : 1000,
+		"shortname" : "ВолгЭнСб"
+	},
+	{
+		"id" : "VGSBP",
+		"regnumber" : "2-01-65103-D",
+		"lotsize" : 1000,
+		"shortname" : "ВолгЭнСб-п"
+	},
+	{
+		"id" : "VJGZ",
+		"regnumber" : "1-01-00017-A",
+		"lotsize" : 1,
+		"shortname" : "Варьеган"
+	},
+	{
+		"id" : "VJGZP",
+		"regnumber" : "2-01-00017-A",
+		"lotsize" : 1,
+		"shortname" : "Варьеган-п"
+	},
+	{
+		"id" : "VKCO",
+		"regnumber" : "1-01-16753-A",
+		"lotsize" : 1,
+		"shortname" : "МКПАО \"ВК\""
+	},
+	{
+		"id" : "VLHZ",
+		"regnumber" : "1-02-04847-A",
+		"lotsize" : 10,
+		"shortname" : "ВХЗ-ао"
+	},
+	{
+		"id" : "VRSB",
+		"regnumber" : "1-01-55029-E",
+		"lotsize" : 10,
+		"shortname" : "ТНСэнВорон"
+	},
+	{
+		"id" : "VRSBP",
+		"regnumber" : "2-01-55029-E",
+		"lotsize" : 10,
+		"shortname" : "ТНСэнВор-п"
+	},
+	{
+		"id" : "VSEH",
+		"regnumber" : "1-01-06636-G",
+		"lotsize" : 1,
+		"shortname" : "ВИ.ру"
+	},
+	{
+		"id" : "VSMO",
+		"regnumber" : "1-01-30202-D",
+		"lotsize" : 1,
+		"shortname" : "ВСМПО-АВСМ"
+	},
+	{
+		"id" : "VSYD",
+		"regnumber" : "1-01-02203-D",
+		"lotsize" : 1,
+		"shortname" : "ВыбСудЗ ао"
+	},
+	{
+		"id" : "VSYDP",
+		"regnumber" : "2-01-02203-D",
+		"lotsize" : 1,
+		"shortname" : "ВыбСудЗ ап"
+	},
+	{
+		"id" : "VTBR",
+		"regnumber" : "10401000B",
+		"lotsize" : 1,
+		"shortname" : "ВТБ ао"
+	},
+	{
+		"id" : "WILD",
+		"regnumber" : "6972",
+		"lotsize" : 1,
+		"shortname" : "WILD ETF"
+	},
+	{
+		"id" : "WTCM",
+		"regnumber" : "1-01-01837-A",
+		"lotsize" : 100,
+		"shortname" : "ЦМТ ао"
+	},
+	{
+		"id" : "WTCMP",
+		"regnumber" : "2-01-01837-A",
+		"lotsize" : 100,
+		"shortname" : "ЦМТ ап"
+	},
+	{
+		"id" : "WUSH",
+		"regnumber" : "1-01-03292-G",
+		"lotsize" : 1,
+		"shortname" : "iВУШХолднг"
+	},
+	{
+		"id" : "X5",
+		"regnumber" : "1-01-16812-A",
+		"lotsize" : 1,
+		"shortname" : "КЦ ИКС 5"
+	},
+	{
+		"id" : "XACCSK",
+		"regnumber" : "7385",
+		"lotsize" : 1,
+		"shortname" : "Акцент 5"
+	},
+	{
+		"id" : "XAVIUM",
+		"regnumber" : "7854-СД",
+		"lotsize" : 1,
+		"shortname" : "Авиум"
+	},
+	{
+		"id" : "XCREDI",
+		"regnumber" : "2933",
+		"lotsize" : 1,
+		"shortname" : "ПИФКредрес"
+	},
+	{
+		"id" : "XEQTRU",
+		"regnumber" : "6352-СД",
+		"lotsize" : 1,
+		"shortname" : "РуАк120\/80"
+	},
+	{
+		"id" : "XFMAGR",
+		"regnumber" : "5405-СД",
+		"lotsize" : 1,
+		"shortname" : "ФАлгоритм"
+	},
+	{
+		"id" : "XFMAGY",
+		"regnumber" : "6579-СД",
+		"lotsize" : 1,
+		"shortname" : "ФАлгоритмЮ"
+	},
+	{
+		"id" : "XFMAIN",
+		"regnumber" : "5648-СД",
+		"lotsize" : 1,
+		"shortname" : "ФАбсолютД"
+	},
+	{
+		"id" : "XFMOMB",
+		"regnumber" : "7130-СД",
+		"lotsize" : 1,
+		"shortname" : "ФОмегаБлнс"
+	},
+	{
+		"id" : "XHEDGE",
+		"regnumber" : "4113-СД",
+		"lotsize" : 1,
+		"shortname" : "Тактикреш"
+	},
+	{
+		"id" : "XHOUSE",
+		"regnumber" : "6487",
+		"lotsize" : 1,
+		"shortname" : "ЗПИФ ИНВНД"
+	},
+	{
+		"id" : "XIPKSV",
+		"regnumber" : "6953-СД",
+		"lotsize" : 1,
+		"shortname" : "ИПИФСтабВл"
+	},
+	{
+		"id" : "XKLUCH",
+		"regnumber" : "7586-СД",
+		"lotsize" : 10,
+		"shortname" : "КлючАктив"
+	},
+	{
+		"id" : "XNIRUM",
+		"regnumber" : "7309-СД",
+		"lotsize" : 1,
+		"shortname" : "Нирум Кап"
+	},
+	{
+		"id" : "XQUANT",
+		"regnumber" : "6285-СД",
+		"lotsize" : 100,
+		"shortname" : "ПИФ КВАНТ"
+	},
+	{
+		"id" : "XSBORA",
+		"regnumber" : "7658-СД",
+		"lotsize" : 1,
+		"shortname" : "Бора-Бора"
+	},
+	{
+		"id" : "XSECUR",
+		"regnumber" : "7951-СД",
+		"lotsize" : 1,
+		"shortname" : "XSECUR"
+	},
+	{
+		"id" : "XSKLAD",
+		"regnumber" : "7347",
+		"lotsize" : 10,
+		"shortname" : "ЗПИФСовр10"
+	},
+	{
+		"id" : "XTRIUMF",
+		"regnumber" : "6109-СД",
+		"lotsize" : 1,
+		"shortname" : "ПАРУС-ТРМ"
+	},
+	{
+		"id" : "XXRONE",
+		"regnumber" : "6859-СД",
+		"lotsize" : 1,
+		"shortname" : "ОблигацииР"
+	},
+	{
+		"id" : "XXXXXX",
+		"regnumber" : "6069-СД",
+		"lotsize" : 1,
+		"shortname" : "Рентал ПРО"
+	},
+	{
+		"id" : "YAKG",
+		"regnumber" : "1-01-20510-F",
+		"lotsize" : 10,
+		"shortname" : "ЯТЭК ао"
+	},
+	{
+		"id" : "YDEX",
+		"regnumber" : "1-01-16777-A",
+		"lotsize" : 1,
+		"shortname" : "ЯНДЕКС"
+	},
+	{
+		"id" : "YKEN",
+		"regnumber" : "1-01-00304-A",
+		"lotsize" : 10000,
+		"shortname" : "Якутскэнрг"
+	},
+	{
+		"id" : "YKENP",
+		"regnumber" : "2-01-00304-A",
+		"lotsize" : 10000,
+		"shortname" : "Якутскэн-п"
+	},
+	{
+		"id" : "YRSB",
+		"regnumber" : "1-01-50099-A",
+		"lotsize" : 10,
+		"shortname" : "ТНСэнЯр"
+	},
+	{
+		"id" : "YRSBP",
+		"regnumber" : "2-01-50099-A",
+		"lotsize" : 10,
+		"shortname" : "ТНСэнЯр-п"
+	},
+	{
+		"id" : "YUAN",
+		"regnumber" : "5248",
+		"lotsize" : 1,
+		"shortname" : "YUAN ETF"
+	},
+	{
+		"id" : "ZAYM",
+		"regnumber" : "1-01-16767-A",
+		"lotsize" : 10,
+		"shortname" : "Займер ао"
+	},
+	{
+		"id" : "ZILL",
+		"regnumber" : "1-02-00036-A",
+		"lotsize" : 1,
+		"shortname" : "ЗИЛ ао"
+	},
+	{
+		"id" : "ZVEZ",
+		"regnumber" : "1-01-00169-D",
+		"lotsize" : 1000,
+		"shortname" : "ЗВЕЗДА ао"
+	}
+]}
