@@ -1,2 +1,2 @@
 # finu-data
-educational info &amp; datasets
+The repos contains educational info &amp; datasets (used to study data science and data enginnering)
