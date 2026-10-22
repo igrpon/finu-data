@@ -1,0 +1,24 @@
+#
+# loads specified datafile into database
+# sling run -r ./quotes_nvtk.yaml
+#
+source: LOCAL
+target: POSTGRES_SANDBOX
+
+streams:
+  "https://github.com/igrpon/finu-data/raw/refs/heads/main/upload_sample/quotes_plzl.csv":
+    object: sandbox.iaponomarev_quotes_plzl
+    mode: full-refresh
+
+    columns:
+      dt: string
+      secid: string
+      close: string
+      value: string
+      volume: string
+
+    source_options:
+      format: csv
+      delimiter: ","
+      header: True
+      skip_blank_lines: True
